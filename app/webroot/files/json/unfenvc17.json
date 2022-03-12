@@ -1,0 +1,741 @@
+
+	{
+	"pid": "unfenvc:17",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Plant Bed Bldg 39 Southwest"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2010-06-03T20:00:07.738Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-11T16:19:15.110Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2010-06-03T20:00:07.853Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "779"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Bldg 39 Southwest"
+					,
+					"identifier": "unfenvc:17"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"rights": "UNF - Internal Use"
+					,
+					"license": "Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License"
+					,
+					"rightsholder": "UNF Environmental Center"
+					,
+					"description": "Plant bed to the southwest of Building 39 (J. Brooks Brown Hall) and north of the fountain."
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2010-06-03T20:00:07.826Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "779"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Bldg 39 Southwest"
+					,
+					"identifier": "unfenvc:17"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"rights": "UNF - Internal Use"
+					,
+					"license": "Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License"
+					,
+					"rightsholder": "UNF Environmental Center"
+					,
+					"description": "Plant bed to the southwest of Building 39 (J. Brooks Brown Hall) and north of the fountain."
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2010-06-03T20:00:07.738Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "390"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Bldg 39 Southwest"
+					,
+					"identifier": "unfenvc:17"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-27T11:52:19.924Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "634"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Bldg 39 Southwest"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "Plant bed to the southwest of Building 39 (J. Brooks Brown Hall) and north of the fountain."
+					,
+					"identifier": "unfenvc:17"
+					,
+					"rights": "Copyright UNF and the UNF Environmental Center 2013"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T16:19:13.534Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "784"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Bldg 39 Southwest"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"description": "Plant bed to the southwest of Building 39 (J. Brooks Brown Hall) and north of the fountain."
+					,
+					"date": "2015-02-11T11:19:06-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:17"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2010-06-03T20:00:07.948Z"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/2008/REC-xml-20081126/"
+				,
+				"size": "3446"
+				
+			},
+			"content": {
+			
+				"image_description": "None"
+				,
+				"manufacturer": "RICOH"
+				,
+				"model": "Caplio 500SE"
+				,
+				"orientation": "top - left"
+				,
+				"x-resolution": "72.00"
+				,
+				"y-resolution": "72.00"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2010:03:19 13:27:58"
+				,
+				"ycbcr_positioning": "co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) -  (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"exposure_time": "1/760 sec."
+				,
+				"fnumber": "f/4.7"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time_original": "2010:03:19 13:27:58"
+				,
+				"date_and_time_digitized": "2010:03:19 13:27:58"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "1.60"
+				,
+				"aperture": "4.40 EV (f/4.6)"
+				,
+				"brightness": "7.70 EV (712.44 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "5.8 mm"
+				,
+				"maker_note": "20350 bytes undefined data"
+				,
+				"user_comment": "GCM_TAG"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixelxdimension": "2048"
+				,
+				"pixelydimension": "1536"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30.00, 16.00, 16.33"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81.00, 30.00, 29.10"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "17.00"
+				,
+				"gps_time_atomic_clock": "18:38:55.00"
+				,
+				"gps_satellites_used_for_measurement": "22,18,21,09,14,26,24,27,06,,,"
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"measurement_precision": "2.40"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": "0.00"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "200.00"
+				,
+				"gps_img_direction_reference": "T"
+				,
+				"gps_img_direction": "0.00"
+				,
+				"geodetic_survey_data_used": "WGS-84"
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2010:03:19"
+				,
+				"gps_differential_correction": "1"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				,
+				"thumbnailsize": "4970"
+				
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "EXIF.1"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-02-11T16:19:14.518Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "312"
+				
+			},
+			"content": {
+			
+				"image_description": "No EXIF in file so this is default set."
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 57.5634"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 42.5844"
+				,
+				"altitude": "0.0"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:00:07.988Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "347"
+				
+			},
+			"content": {
+			
+			"name": "Plant Bed Bldg 39 Southwest",
+			"desc": "Plant bed to the southwest of Building 39 (J. Brooks Brown Hall) and north of the fountain.",
+			"coordinates": "-81.508083333333,30.271202777778,17.00"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-02-11T16:19:14.802Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "261"
+				
+			},
+			"content": {
+			
+			"name": "Hairypod cowpea",
+			"desc": "&lt;i&gt;Vigna luteola&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships to other objects"
+				,
+				"created": "2010-06-03T20:00:08.756Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "474"
+				
+				},
+			"content": {
+			
+						"iscollection": "false"
+					,
+						"ismemberof": "info:fedora/unfenvc:2"
+					,
+						"hasmodel": "info:fedora/unf:cmodel_GeotaggedImage"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships to other objects"
+				,
+				"created": "2013-04-27T10:50:53.893Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "352"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:2"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:19:11.521Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:19:12.163Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:19:12.382Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:539"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2010-06-03T20:00:07.877Z"
+				,
+				"alt_ids": "RIMG0015.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "-1"
+				
+				},
+			"content": {
+			"md5": "9a431f743893e540193547bd47a8238c",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2010-06-03T20:00:07.877Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-09-23T16:03:43.898Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "762052"
+				
+				},
+			"content": {
+			"md5": "9a431f743893e540193547bd47a8238c",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2013-09-23T16:03:43.898Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-09-23T16:03:53.384Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "762052"
+				
+				},
+			"content": {
+			"md5": "9a431f743893e540193547bd47a8238c",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2013-09-23T16:03:53.384Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.3"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-01T19:47:25.151Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "756328"
+				
+				},
+			"content": {
+			"md5": "a676b06a85c4f2d71912b7b00b1f45e3",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2013-10-01T19:47:25.151Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.4"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:12:59.454Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "756328"
+				
+				},
+			"content": {
+			"md5": "a676b06a85c4f2d71912b7b00b1f45e3",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2014-05-15T18:12:59.454Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.5"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:24:51.802Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "756328"
+				
+				},
+			"content": {
+			"md5": "a676b06a85c4f2d71912b7b00b1f45e3",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2014-12-16T15:24:51.802Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.6"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-02-11T16:19:14.137Z"
+				,
+				"alt_ids": "IMGP1663.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4278733"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/Source/2015-02-11T16:19:14.137Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-02-11T16:19:15.110Z"
+				,
+				"alt_ids": "IMGP1663.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "235940"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:17/THUMB/2015-02-11T16:19:15.110Z"
+			}
+			}
+			
+		]
+	}
+	

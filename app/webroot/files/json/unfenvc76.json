@@ -1,0 +1,779 @@
+
+	{
+	"pid": "unfenvc:76",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Largeflower Milkweed Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-30T15:56:04.654Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2014-12-17T13:54:07.347Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:56:04.654Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "391"
+						
+					},
+				"content": {
+				
+					"title": "Largeflower Milkweed Photo 1"
+					,
+					"identifier": "unfenvc:76"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:56:04.994Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "623"
+						
+					},
+				"content": {
+				
+					"title": "Largeflower Milkweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:56:04-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:76"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:20:25.952Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Largeflower Milkweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:56:04-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:76"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:17.285Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Largeflower Milkweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:56:04-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:76"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:57.868Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "623"
+						
+					},
+				"content": {
+				
+					"title": "Largeflower Milkweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:57-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:76"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-10-30T15:56:05.084Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2751"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING   "
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "PENTAX WG-3 GPS Ver. 1.00"
+				,
+				"date_and_time": "2013:07:05 14:04:54"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/320 sec."
+				,
+				"f-number": "f/2.8"
+				,
+				"iso_speed_ratings": "125"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:07:05 14:04:54"
+				,
+				"date_and_time__digitized_": "2013:07:05 14:04:54"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "4.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "4608"
+				,
+				"pixel_y_dimension": "2592"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "25"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Macro"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 27.57"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 54.306"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "8.30"
+				,
+				"gps_time__atomic_clock_": "18:04:30.15"
+				,
+				"gps_satellites": "04"
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": "245.11"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"gps_date": "2013:07:05"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "EXIF.1"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2014-01-07T20:29:55.383Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2307"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING"
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "PENTAX WG-3 GPS Ver. 1.00"
+				,
+				"date_and_time": "2013:07:05 14:04:54"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/320 sec."
+				,
+				"f-number": "f/2.8"
+				,
+				"iso_speed_ratings": "125"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:07:05 14:04:54"
+				,
+				"date_and_time__digitized_": "2013:07:05 14:04:54"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "4.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "4608"
+				,
+				"pixel_y_dimension": "2592"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "25"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Macro"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 27.57"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 54.306"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "8.30"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-30T15:56:05.165Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "274"
+				
+			},
+			"content": {
+			
+			"name": "Largeflower Milkweed",
+			"desc": "&lt;i&gt;Asclepias connivens&lt;/i&gt;",
+			"coordinates": "-81.515085,30.274325,8.30"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2014-01-07T20:28:57.506Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "270"
+				
+			},
+			"content": {
+			
+			"name": "Largeflower Milkweed",
+			"desc": "&lt;i&gt;Asclepias connivens&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:56:04.747Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:56:04.813Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:56:04.880Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:181"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-30T15:56:05.235Z"
+				,
+				"alt_ids": "IMGP0055.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3904888"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/Source/2013-10-30T15:56:05.235Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-01-07T20:31:28.389Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3621432"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/Source/2014-01-07T20:31:28.389Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:20:26.848Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3621432"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/Source/2014-05-15T18:20:26.848Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.3"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:26:57.283Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3621432"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/Source/2014-12-16T15:26:57.283Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-10-30T15:56:05.320Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/IMGP0055.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "88413"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/THUMB/2013-10-30T15:56:05.320Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-01-07T20:31:09.881Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "23409"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/THUMB/2014-01-07T20:31:09.881Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:20:26.131Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "23409"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/THUMB/2014-05-15T18:20:26.131Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:45:08.288Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "23409"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/THUMB/2014-12-16T15:45:08.288Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.4"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:54:07.347Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "47410"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:76/THUMB/2014-12-17T13:54:07.347Z"
+			}
+			}
+			
+		]
+	}
+	

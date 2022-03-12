@@ -1,0 +1,654 @@
+
+	{
+	"pid": "unfenvc:199",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Strawcolored Flatsedge Photo 2"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-11-05T19:45:53.461Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-01-22T21:15:11.988Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-05T19:45:53.461Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "394"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"identifier": "unfenvc:199"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-05T19:45:53.781Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-05T14:45:53-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:199"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:21:24.400Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "625"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-05T14:45:53-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:199"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:40.621Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "625"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-05T14:45:53-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:199"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:10:43.921Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:10:43-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:199"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-01-22T21:15:11.988Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Strawcolored Flatsedge Photo 2"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-01-22T16:15:11-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:199"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-11-05T19:45:53.845Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3698"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "Microsoft Windows Photo Viewer 6.1.7600.16385"
+				,
+				"date_and_time": "2011:10:24 12:03:26"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"padding": "2060 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/380 sec."
+				,
+				"f-number": "f/2.5"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:10:18 14:54:27"
+				,
+				"date_and_time__digitized_": "2011:10:18 14:54:27"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "2.60 EV (f/2.5)"
+				,
+				"brightness": "5.20 EV (125.94 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "5.8 mm"
+				,
+				"maker_note": "15986 bytes undefined data"
+				,
+				"user_comment": ""
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "2448"
+				,
+				"pixel_y_dimension": "3264"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"padding": "2060 bytes undefined data"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 22.03"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 49.42"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "16"
+				,
+				"gps_time__atomic_clock_": "18:54:55.00"
+				,
+				"gps_satellites": "17,04,28,10,20,02,09,,,,,                      "
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"measurement_precision": "2.00"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "286"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:10:18"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-11-05T19:45:53.961Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "284"
+				
+			},
+			"content": {
+			
+			"name": "Strawcolored Flatsedge",
+			"desc": "&lt;i&gt;Cyperus strigosus&lt;/i&gt;",
+			"coordinates": "-81.513727777778,30.272786111111,16"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-05T19:45:53.570Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-05T19:45:53.649Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-05T19:45:53.694Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:070"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-11-05T19:45:54.053Z"
+				,
+				"alt_ids": "Cyperus-strigosus-4.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2994935"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/Source/2013-11-05T19:45:54.053Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:21:38.127Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2994935"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/Source/2014-05-15T18:21:38.127Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:25:14.164Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2994935"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/Source/2014-12-16T15:25:14.164Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-11-05T19:45:54.160Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Cyperus-strigosus-4.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "140033"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/THUMB/2013-11-05T19:45:54.160Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:21:38.479Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "140033"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/THUMB/2014-05-15T18:21:38.479Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:43:39.832Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "140033"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/THUMB/2014-12-16T15:43:39.832Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:24:23.681Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "166570"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:199/THUMB/2014-12-17T13:24:23.681Z"
+			}
+			}
+			
+		]
+	}
+	

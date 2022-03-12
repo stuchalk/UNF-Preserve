@@ -1,0 +1,374 @@
+
+	{
+	"pid": "unfenvc:1323",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Orangewinged grasshopper Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-05-26T13:19:39.696Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-05-26T13:19:42.254Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-05-26T13:19:40.836Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "664"
+						
+					},
+				"content": {
+				
+					"title": "Orangewinged grasshopper Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2015-05-26T09:19:37-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1323"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-05-26T13:19:41.361Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3457"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH"
+				,
+				"model": "Caplio 500SE"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2013:06:13 09:28:04"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User(Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/189 sec."
+				,
+				"f-number": "f/8.0"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2013:06:13 09:28:04"
+				,
+				"date_and_time__digitized_": "2013:06:13 09:28:04"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "6.00 EV (f/8.0)"
+				,
+				"brightness": "7.10 EV (470.04 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "17.4 mm"
+				,
+				"maker_note": "15402 bytes undefined data"
+				,
+				"user_comment": "GCM_TAG"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 54.88"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 31, 4.72"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "11"
+				,
+				"gps_time__atomic_clock_": "13:30:32.00"
+				,
+				"gps_satellites": "01,01,01,01,01"
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "2"
+				,
+				"measurement_precision": "0.00"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "81"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84"
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2013:06:13"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-05-26T13:19:41.616Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "283"
+				
+			},
+			"content": {
+			
+			"name": "Orangewinged grasshopper",
+			"desc": "&lt;i&gt;Pardalophora phoenicoptera&lt;/i&gt;",
+			"coordinates": "-81.517978,30.265244,11"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-26T13:19:39.967Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-26T13:19:40.167Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-26T13:19:40.308Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "330"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					,
+						"ispartof": "invert:117"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-05-26T13:19:41.964Z"
+				,
+				"alt_ids": "R0016396.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2839753"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1323+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-05-26T13:19:42.254Z"
+				,
+				"alt_ids": "R0016396.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "75096"
+				
+			},
+			"content": {
+			"url": "unfenvc:1323+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

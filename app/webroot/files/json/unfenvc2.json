@@ -1,0 +1,1743 @@
+
+	{
+	"pid": "unfenvc:2",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Plant Bed Photos (March 2010)"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2010-05-25T00:52:10.991Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-06T15:38:09.889Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2010-05-27T21:04:23.307Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "516"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds on the UNF campus"
+					,
+					"identifier": "unfenvc:2"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2010-05-25T00:52:11.546Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "528"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Photographs (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds on the UNF campus"
+					,
+					"identifier": "unfenvc:2"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-26T12:36:40.775Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "629"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"identifier": "unfenvc:2"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-26T12:43:22.712Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "659"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "imageset"
+					,
+					"identifier": "unfenvc:2"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-26T12:44:06.971Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "662"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "geoimageset"
+					,
+					"identifier": "unfenvc:2"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-26T13:16:45.784Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "706"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (03192010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "geoimageset"
+					,
+					"identifier": "unfenvc:2"
+					,
+					"rights": "Copyright UNF 2013"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.6"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-26T13:17:31.802Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "708"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed (March 2010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "geoimageset"
+					,
+					"identifier": "unfenvc:2"
+					,
+					"rights": "Copyright UNF 2013"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.7"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-27T10:37:12.956Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "715"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Photos (March 2010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "geoimageset"
+					,
+					"identifier": "unfenvc:2"
+					,
+					"rights": "Copyright UNF 2013"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.8"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-04-27T10:40:57.548Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "748"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Photos (March 2010)"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"type": "geoimageset"
+					,
+					"identifier": "unfenvc:2"
+					,
+					"rights": "Copyright UNF and the UNF Environmental Center 2013"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.9"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-06T15:38:07.964Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "866"
+						
+					},
+				"content": {
+				
+					"title": "Plant Bed Photos (March 2010)"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"description": "A set of photographs taken of plant beds at the center of the UNF campus. These photos were taken prior to the construction of the Biology complex (Building 59) 2010-2012."
+					,
+					"date": "2015-02-06T10:38:03-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/pjpeg"
+					,
+					"identifier": "unfenvc:2"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-02-06T15:38:09.039Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "312"
+				
+			},
+			"content": {
+			
+				"image_description": "No EXIF in file so this is default set."
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 57.5634"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 42.5844"
+				,
+				"altitude": "0.0"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.39"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2011-10-24T20:50:31.845Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5094"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.38"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2011-10-24T17:15:24.184Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5094"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.37"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2011-10-24T17:15:18.018Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5094"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.36"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2011-10-24T17:06:10.061Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5992"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.35"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:05:18.989Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "7505"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.34"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:05:18.894Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "7505"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.33"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:02:26.525Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "7092"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.32"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:02:26.429Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "7092"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.31"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:00:08.672Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "6676"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.30"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T20:00:08.577Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "6676"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.29"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:57:20.671Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "6257"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.28"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:57:20.584Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "6257"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.27"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:55:50.702Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5839"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.26"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:55:50.628Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5839"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.25"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:52:12.829Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5423"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.24"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:52:12.746Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5423"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.23"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:49:30.653Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5004"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.22"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:49:30.578Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "5004"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.21"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:42:17.177Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "4591"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.20"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:42:17.107Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "4591"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.19"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:38:55.174Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "4173"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.18"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:38:55.106Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "4173"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.17"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:38:03.472Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "3755"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.16"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:38:03.396Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "3755"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.15"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:34:21.023Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "3341"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.14"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T19:34:20.950Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "3341"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.13"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:55:36.890Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2927"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.12"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:55:36.825Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2927"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.11"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:53:27.495Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2515"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.10"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:53:27.443Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2515"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.9"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:46:40.309Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2098"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.8"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:46:40.251Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "2098"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.7"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:44:02.683Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1686"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.6"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:44:02.625Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1686"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.5"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:40:23.544Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1278"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.4"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:37:18.850Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1679"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.3"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:37:18.786Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1679"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.2"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:32:53.463Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1271"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T18:32:53.388Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "1271"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2010-06-03T17:52:08.879Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "871"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.40"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-04-25T14:05:10.106Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "84272"
+				
+			},
+			"content": {
+			
+			"name": "",
+			"desc": "",
+			"coordinates": ""
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.42"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-02-06T15:38:09.448Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml"
+				,
+				"size": "270"
+				
+			},
+			"content": {
+			
+			"name": "Two-lined spittlebug",
+			"desc": "&lt;i&gt;Prosapia bicincta&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2010-05-25T00:52:11.546Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "473"
+				
+				},
+			"content": {
+			
+						"hasmodel": "info:fedora/unf:cmodel_ImageCollection"
+					,
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-04-26T10:04:46.039Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "606"
+				
+				},
+			"content": {
+			
+						"hasmodel": "info:fedora/unf:cmodel_ImageCollection"
+					,
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollection": "true"
+					,
+						"hascollectionlevel": "1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-04-26T12:16:15.108Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "518"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollection": "true"
+					,
+						"hascollectionlevel": "1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-04-26T12:31:03.595Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "484"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-10-15T20:16:41.468Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "518"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					,
+						"ispartof": "preserve"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.5"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-10-15T20:28:16.676Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "542"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					,
+						"ispartof": "preserve"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.6"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-10-15T20:32:37.353Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "526"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					,
+						"ispartof": "preserve"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.7"
+				,
+				"label": "Relationships to Other Objects"
+				,
+				"created": "2013-10-15T21:34:30.454Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "484"
+				
+				},
+			"content": {
+			
+						"ismemberof": "info:fedora/unfenvc:1"
+					,
+						"iscollection": "true"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.8"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-06T15:38:06.358Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "150"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.9"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-06T15:38:06.689Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "236"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.10"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-06T15:38:07.181Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "invert:156"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-02-06T15:38:08.556Z"
+				,
+				"alt_ids": "IMGP1269.JPG"
+				,
+				"mimetype": "image/pjpeg"
+				,
+				"size": "3980076"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:2/Source/2015-02-06T15:38:08.556Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-02-06T15:38:09.889Z"
+				,
+				"alt_ids": "IMGP1269.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "102906"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:2/THUMB/2015-02-06T15:38:09.889Z"
+			}
+			}
+			
+		]
+	}
+	

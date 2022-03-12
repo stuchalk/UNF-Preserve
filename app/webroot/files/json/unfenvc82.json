@@ -1,0 +1,672 @@
+
+	{
+	"pid": "unfenvc:82",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Woolly Pawpaw; Polecat Bush Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-30T15:58:26.973Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-01-20T18:40:47.984Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:58:26.973Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "398"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"identifier": "unfenvc:82"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:58:27.294Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "630"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:58:27-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:82"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:20:26.588Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "629"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:58:27-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:82"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:19.241Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "629"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:58:27-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:82"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:09:49.787Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "630"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:09:49-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:82"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-01-20T18:40:40.305Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "630"
+						
+					},
+				"content": {
+				
+					"title": "Woolly Pawpaw; Polecat Bush Photo 1"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-01-20T13:40:40-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:82"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-10-30T15:58:27.364Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3479"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2011:06:07 07:52:33"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/45 sec."
+				,
+				"f-number": "f/2.8"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "119"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:06:07 07:52:33"
+				,
+				"date_and_time__digitized_": "2011:06:07 07:52:33"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "3.00 EV (f/2.8)"
+				,
+				"brightness": "1.60 EV (10.39 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "7.9 mm"
+				,
+				"maker_note": "17366 bytes undefined data"
+				,
+				"user_comment": "GCM_TAG"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": " 0,  0, 0.00"
+				,
+				"east_or_west_longitude": "E"
+				,
+				"longitude": " 0,  0, 0.00"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": " 0"
+				,
+				"gps_time__atomic_clock_": "00:00:00.00"
+				,
+				"gps_satellites": ""
+				,
+				"gps_receiver_status": "V"
+				,
+				"gps_measurement_mode": "2"
+				,
+				"measurement_precision": "0.00"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": " 0"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:06:07"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-30T15:58:27.454Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "257"
+				
+			},
+			"content": {
+			
+			"name": "Woolly Pawpaw; Polecat Bush",
+			"desc": "&lt;i&gt;Asimina incana&lt;/i&gt;",
+			"coordinates": "0,0, 0"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-01-20T18:40:47.984Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "257"
+				
+			},
+			"content": {
+			
+			"name": "Woolly Pawpaw; Polecat Bush",
+			"desc": "&lt;i&gt;Asimina incana&lt;/i&gt;",
+			"coordinates": "0,0, 0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:58:27.054Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:58:27.115Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:58:27.170Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:188"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-30T15:58:27.529Z"
+				,
+				"alt_ids": "Asimina-incana-fruit.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2970607"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/Source/2013-10-30T15:58:27.529Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:20:28.273Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2970607"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/Source/2014-05-15T18:20:28.273Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:24:48.307Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2970607"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/Source/2014-12-16T15:24:48.307Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-10-30T15:58:27.620Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Asimina-incana-fruit.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "77054"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/THUMB/2013-10-30T15:58:27.620Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:20:27.962Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "77054"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/THUMB/2014-05-15T18:20:27.962Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:42:37.103Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "77054"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/THUMB/2014-12-16T15:42:37.103Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T10:52:36.857Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "92010"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:82/THUMB/2014-12-17T10:52:36.857Z"
+			}
+			}
+			
+		]
+	}
+	

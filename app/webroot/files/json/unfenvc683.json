@@ -1,0 +1,522 @@
+
+	{
+	"pid": "unfenvc:683",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Shiny Blueberry Photo 2"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2014-01-21T16:36:14.868Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-11T16:02:22.692Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-21T16:36:14.868Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "387"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"identifier": "unfenvc:683"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-21T16:36:15.353Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "619"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-21T11:36:15-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:683"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:22:44.437Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "618"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-21T11:36:15-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:683"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:08:14.493Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "618"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-21T11:36:15-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:683"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:40.851Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "619"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:40-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:683"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T16:02:22.692Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "619"
+						
+					},
+				"content": {
+				
+					"title": "Shiny Blueberry Photo 2"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-02-11T11:02:22-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:683"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2014-01-21T16:36:15.460Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "312"
+				
+			},
+			"content": {
+			
+				"image_description": "No EXIF in file so this is default set."
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 57.5634"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 42.5844"
+				,
+				"altitude": "0.0"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2014-01-21T16:36:15.561Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "275"
+				
+			},
+			"content": {
+			
+			"name": "Shiny Blueberry",
+			"desc": "&lt;i&gt;Vaccinium myrsinites&lt;/i&gt;",
+			"coordinates": "-81.511829,30.265989833333,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-21T16:36:15.033Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-21T16:36:15.134Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-21T16:36:15.202Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:329"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-01-21T16:36:15.664Z"
+				,
+				"alt_ids": "Vaccinium-myrsinites-fruit2.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3240761"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/Source/2014-01-21T16:36:15.664Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T21:59:59.595Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3240761"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/Source/2014-05-15T21:59:59.595Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:27:01.220Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3240761"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/Source/2014-12-16T15:27:01.220Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-01-21T16:36:15.774Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Vaccinium-myrsinites-fruit2.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "101524"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/THUMB/2014-01-21T16:36:15.774Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T21:59:58.758Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "101524"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/THUMB/2014-05-15T21:59:58.758Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:44:51.146Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "101524"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/THUMB/2014-12-16T15:44:51.146Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:51:18.079Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "101663"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:683/THUMB/2014-12-17T13:51:18.079Z"
+			}
+			}
+			
+		]
+	}
+	

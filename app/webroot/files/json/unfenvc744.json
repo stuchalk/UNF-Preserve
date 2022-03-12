@@ -1,0 +1,351 @@
+
+	{
+	"pid": "unfenvc:744",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Spanish Needles Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2014-12-13T11:57:08.604Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-10T14:29:28.951Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-13T11:57:08.604Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "387"
+						
+					},
+				"content": {
+				
+					"title": "Spanish Needles Photo 1"
+					,
+					"identifier": "unfenvc:744"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-13T11:57:09.045Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "654"
+						
+					},
+				"content": {
+				
+					"title": "Spanish Needles Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-13T06:57:07-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:744"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-01-20T19:00:28.720Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "654"
+						
+					},
+				"content": {
+				
+					"title": "Spanish Needles Photo 1"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-01-20T14:00:28-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:744"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2014-12-13T11:57:09.156Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "312"
+				
+			},
+			"content": {
+			
+				"image_description": "No EXIF in file so this is default set."
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 57.5634"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 42.5844"
+				,
+				"altitude": "0.0"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2014-12-13T11:57:09.272Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "264"
+				
+			},
+			"content": {
+			
+			"name": "Spanish Needles",
+			"desc": "&lt;i&gt;Bidens bipinnata&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-02-10T14:29:28.951Z"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "264"
+				
+			},
+			"content": {
+			
+			"name": "Spanish Needles",
+			"desc": "&lt;i&gt;Bidens bipinnata&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-12-13T11:57:08.721Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-12-13T11:57:08.807Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-12-13T11:57:08.886Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:542"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-13T11:57:09.382Z"
+				,
+				"alt_ids": "Bidens-bipinnata.jpg"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"size": "2675545"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:744/Source/2014-12-13T11:57:09.382Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-13T11:57:09.481Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Bidens-bipinnata.jpg"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"size": "107214"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:744/THUMB/2014-12-13T11:57:09.481Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:54:12.283Z"
+				,
+				"alt_ids": "Bidens-bipinnata.jpg_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "107214"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:744/THUMB/2014-12-17T13:54:12.283Z"
+			}
+			}
+			
+		]
+	}
+	

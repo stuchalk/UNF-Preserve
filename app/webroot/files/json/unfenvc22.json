@@ -1,0 +1,458 @@
+
+	{
+	"pid": "unfenvc:22",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Preserve: Bird Photos"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-31T20:22:21.625Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-23T01:16:28.377Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T20:22:21.625Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "384"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Bird Photos"
+					,
+					"identifier": "unfenvc:22"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T20:23:13.734Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "849"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Bird Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of plants on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:22"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T21:08:40.879Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "848"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Bird Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of birds on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:22"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T17:07:32.095Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "950"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Bird Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of birds on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:07:29-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:22"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T19:10:35.922Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "919"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Bird Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of birds on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:07:29-05:00"
+					,
+					"type": "Collection"
+					,
+					"identifier": "unfenvc:22"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+		],
+		"kmls": [
+		
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-31T20:24:12.164Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "452"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"ispartof": "preserve"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:29.734Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:30.014Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:30.204Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:544"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T19:08:43.466Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "242"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.5"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T16:34:43.056Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "304"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.6"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T16:50:20.383Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "304"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.7"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T17:45:05.082Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "361"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "bird"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.8"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-23T01:16:28.377Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "373"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "bird"
+					,
+						"iscollectionof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+		],
+		"thumbs": [
+		
+		]
+	}
+	

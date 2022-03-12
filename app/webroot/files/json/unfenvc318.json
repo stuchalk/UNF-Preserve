@@ -1,0 +1,613 @@
+
+	{
+	"pid": "unfenvc:318",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Roundpod St.John's-Wort Photo 3"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-11-25T16:57:27.817Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2014-12-17T13:27:58.978Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-25T16:57:27.817Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "400"
+						
+					},
+				"content": {
+				
+					"title": "Roundpod St.John's-Wort Photo 3"
+					,
+					"identifier": "unfenvc:318"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-25T16:57:28.730Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "632"
+						
+					},
+				"content": {
+				
+					"title": "Roundpod St.John's-Wort Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-25T11:57:28-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:318"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:21:45.296Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "631"
+						
+					},
+				"content": {
+				
+					"title": "Roundpod St.John's-Wort Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-25T11:57:28-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:318"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:07:03.671Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "631"
+						
+					},
+				"content": {
+				
+					"title": "Roundpod St.John's-Wort Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-25T11:57:28-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:318"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:14.843Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "632"
+						
+					},
+				"content": {
+				
+					"title": "Roundpod St.John's-Wort Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:14-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:318"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-11-25T16:57:28.790Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3542"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2011:06:13 09:58:32"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/104 sec."
+				,
+				"f-number": "f/4.3"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "176"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:06:13 09:58:32"
+				,
+				"date_and_time__digitized_": "2011:06:13 09:58:32"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "4.20 EV (f/4.3)"
+				,
+				"brightness": "3.50 EV (38.76 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "17.4 mm"
+				,
+				"maker_note": "20418 bytes undefined data"
+				,
+				"user_comment": "GCM_TAG"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 38.16"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 59.87"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "13"
+				,
+				"gps_time__atomic_clock_": "14:02:29.00"
+				,
+				"gps_satellites": "01,01,01,01,01,01                              "
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "2"
+				,
+				"measurement_precision": "0.00"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "76"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:06:13"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-11-25T16:57:28.856Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "294"
+				
+			},
+			"content": {
+			
+			"name": "Roundpod St.John's-Wort",
+			"desc": "&lt;i&gt;Hypericum cistifolium&lt;/i&gt;",
+			"coordinates": "-81.516630555556,30.277266666667,13"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-25T16:57:28.552Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-25T16:57:28.603Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-25T16:57:28.641Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:303"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-11-25T16:57:28.926Z"
+				,
+				"alt_ids": "Hypericum-cistifolium.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2805603"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/Source/2013-11-25T16:57:28.926Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T19:03:05.689Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2805603"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/Source/2014-05-15T19:03:05.689Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:26:44.332Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2805603"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/Source/2014-12-16T15:26:44.332Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-11-25T16:57:29.004Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Hypericum-cistifolium.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "55577"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/THUMB/2013-11-25T16:57:29.004Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T19:03:06.050Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "55577"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/THUMB/2014-05-15T19:03:06.050Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:44:33.040Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "55577"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/THUMB/2014-12-16T15:44:33.040Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:27:58.978Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "68335"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:318/THUMB/2014-12-17T13:27:58.978Z"
+			}
+			}
+			
+		]
+	}
+	

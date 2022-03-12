@@ -1,0 +1,173 @@
+// Add an item
+function add($col="",$output="redirect")
+{
+	// Get Fedora request query parameters (via GET or POST)
+	$query=$this->Fobject->getQuery($this);
+	
+	// Get data
+	if(!empty($query))
+	{
+		// Initalize variables
+		$pid="";$meta=$dc=$streams=$rels=array();
+		echo "<pre>";print_r($query);echo "</pre>";exit;
+		
+		// Generate the pid
+		if(!empty($query['pid'])):	$pid=Configure::read('jaf.pidns').':'.$query['pid'];unset($query['pid']);
+		else:						list($pid)=$this->Repository->next('1',Configure::read('jaf.pidns'));
+		endif;
+		
+		// Define the object metadata (remaining values are defaults or hardcoded)
+		$meta=array('label'=>$query['dc']['title']);
+		
+		// Generate the DC element array for updating the DC datastream
+		// title, description, created, source, citation, type, relation (used for Google books) are already set
+		$dc=$query['dc'];
+		if(!isset($dc['creator'])) { $dc['creator']=array(); }
+		if(!isset($dc['subject'])) { $dc['subject']=array(); }
+		if(!isset($dc['publisher'])) { $dc['publisher']=array(); }
+		// Creator
+		if($dc['creatorText']!="") { $dc['creator']=array_merge($dc['creator'],explode(";",$dc['creatorText'])); }
+		unset($dc['creatorText']);
+		// Subject
+		if($dc['subjectText']!="") { $dc['subject']=array_merge($dc['subject'],explode(";",$dc['subjectText'])); }
+		unset($dc['subjectText']);
+		// Publisher
+		if($dc['publisherText']!="") { $dc['publisher']=array_merge($dc['publisher'],explode(";",$dc['publisherText'])); }
+		unset($dc['publisherText']);
+		// Format (filetype)
+		if($query['upload']['size']>0) { $dc['format']=$query['upload']['type']; }
+		// Type (dc types)
+		if($dc['type']=="Website") { $dc['format']='text/html'; }
+		// Language
+		$dc['language']='en-US';
+		
+		// Streams
+		
+		// Add DOI stream if found source (indicates protected content)
+		if(stristr($query['dc']['source'],"dx.doi"))
+		{
+			$q=array('dsLabel'=>'Paper DOI','logMessage'=>'Item DOI stream','dsLocation'=>$query['dc']['source'],'controlGroup'=>'E','versionable'=>'false','mimeType'=>'text/html');
+			$streams[]=array('dsID'=>'DOI','query'=>$q,'source'=>'None');
+		}
+		
+		// Check for upload
+		if($query['upload']['size']>0||$query['dc']['source']!="")
+		{
+			// Add the uploaded file as either a CONTENT, PROTECTED, or SNAPSHOT (for web pages)
+			if($query['upload']['size']>0&&$query['dc']['type']=="Journal Article"&&!stristr($query['dc']['source'],"doi")&&!stristr($query['dc']['source'],"jstor.org"))
+			{
+				$dsID="CONTENT";$dsLabel="Article in PDF";
+				$tempfile='/Volumes/data/phptemp/'.$query['upload']['name'];
+				move_uploaded_file($query['upload']['tmp_name'],$tempfile);
+				$query['upload']['tmp_name']=$tempfile;chmod($tempfile, 0777);
+			}
+			elseif($query['upload']['size']>0&&$query['dc']['type']=="Journal Article"&&(stristr($query['dc']['source'],"doi")||stristr($query['dc']['source'],"jstor.org")))
+			{
+				$dsID="PROTECTED";$dsLabel="Copyrighted PDF";
+				$tempfile='/Volumes/data/phptemp/'.$query['upload']['name'];
+				move_uploaded_file($query['upload']['tmp_name'],$tempfile);
+				$query['upload']['tmp_name']=$tempfile;chmod($tempfile, 0777);
+			}
+			elseif($query['upload']['size']>0&&$query['dc']['type']!="Journal Article")
+			{
+				$dsID="CONTENT";$dsLabel="Document in ".$query['upload']['type']." format";
+				$tempfile='/Volumes/data/phptemp/'.$query['upload']['name'];
+				move_uploaded_file($query['upload']['tmp_name'],$tempfile);
+				$query['upload']['tmp_name']=$tempfile;chmod($tempfile, 0777);
+			}
+			elseif($query['dc']['source']!="")
+			{
+				// Generate pdf using wkpdf
+				$dsID="SNAPSHOT";$dsLabel="Snapshot of web page";
+				$tempfile="/Volumes/data/phptemp/snapshot.pdf";
+				exec("/usr/bin/wkpdf -m 10 -d -s '".$query['dc']['source']."' -y screen -n yes -o ".$tempfile,$execresult);
+				$this->log('SNAPSHOT: '.json_encode($execresult),'exec');
+				$query['upload']=array('name'=>'Snapshot of web page','type'=>'application/pdf','tmp_name'=>$tempfile,'error'=>'0','size'=>filesize('/Volumes/data/phptemp/snapshot.pdf'));
+			}
+			$q=array('dsLabel'=>$dsLabel,'checksumType'=>'DISABLED','logMessage'=>'Item content stream');
+			$streams[]=array('dsID'=>$dsID,'query'=>$q,'source'=>'Upload','upload'=>$query['upload']);
+			
+			// Add item image stream as IMAGE
+			if($query['upload']['type']=="application/pdf")
+			{
+				// Generate image using Imagemagick's convert utility and store in the temp folder
+				exec("/Volumes/data/bin/convert -density 400 '".$tempfile."'[0] -resize 850 -background white -alpha remove /Volumes/data/phptemp/image.jpg",$execresult);
+				$result=json_encode($execresult);
+				$this->log('IMAGE: '.$result,'exec');
+			}
+			if(is_file('/Volumes/data/phptemp/image.jpg'))
+			{
+				// Generate needed metadata for IMAGE stream
+				$q=array('dsLabel'=>'Image of cover page','checksumType'=>'DISABLED','logMessage'=>'Item image stream');
+				$u=array('name'=>$pid.' cover page image','type'=>'image/jpeg','tmp_name'=>'/Volumes/data/phptemp/image.jpg','error'=>'0','size'=>filesize('/Volumes/data/phptemp/image.jpg'));
+				$streams[]=array('dsID'=>'IMAGE','query'=>$q,'source'=>'Upload','upload'=>$u);
+			}
+
+			// Add thumbnail stream as THUMB
+			if($query['upload']['type']=="application/pdf")
+			{
+				// Generate thumbnail using Imagemagick's convert utility and store in the temp folder
+				exec("/Volumes/data/bin/convert -density 400 '".$tempfile."'[0] -resize 230 -background white -alpha remove /Volumes/data/phptemp/thumb.jpg",$execresult);
+				$result=json_encode($execresult);
+				$this->log('THUMB: '.$result,'exec');
+			}
+			elseif(stristr("image",$query['upload']['type']))
+			{
+				// Generate thumbnail using Imagemagick's convert utility and store in the temp folder (difference is no [0] after URL)
+				exec("/Volumes/data/bin/convert -density 400 '".$tempfile."' -resize 230 -background white -alpha remove /Volumes/data/phptemp/thumb.jpg",$execresult);
+				$result=json_encode($execresult);
+				$this->log('IMAGE: '.$result,'exec');
+			}
+			if(is_file('/Volumes/data/phptemp/thumb.jpg'))
+			{
+				// Generate needed metadata for THUMB stream
+				$q=array('dsLabel'=>'Thumbnail of cover page','checksumType'=>'DISABLED','logMessage'=>'Item thumbnail stream');
+				$u=array('name'=>$pid.' thumbnail image','type'=>'image/jpeg','tmp_name'=>'/Volumes/data/phptemp/thumb.jpg','error'=>'0','size'=>filesize('/Volumes/data/phptemp/thumb.jpg'));
+				$streams[]=array('dsID'=>'THUMB','query'=>$q,'source'=>'Upload','upload'=>$u);
+			}
+		}
+		
+		// Define the relationships to add
+		$rels=array();
+		$rels[]=array('predicate'=>'isItem','object'=>'','literal'=>'true');
+		if($query['collection']!="") { $rels[]=array('predicate'=>'isMemberOfCollection','object'=>$query['collection'],'literal'=>''); }
+		if(isset($query['subcols'])&&!empty($query['subcols']))
+		{
+			foreach($query['subcols'] as $subcol) { $rels[]=array('predicate'=>'isMemberOfCollection','object'=>$subcol,'literal'=>''); }
+		}
+		
+		// Create item
+		$data=$this->Fobject->add($pid,$meta,$dc,$streams,$rels);
+		
+		// Delete temp files
+		if(file_exists('/Volumes/data/phptemp/snapshot.pdf'))	{ unlink('/Volumes/data/phptemp/snapshot.pdf'); }
+		if(file_exists($tempfile))								{ unlink($tempfile); }
+		if(file_exists('/Volumes/data/phptemp/thumb.jpg'))		{ unlink('/Volumes/data/phptemp/thumb.jpg'); }
+		if(file_exists('/Volumes/data/phptemp/image.jpg'))		{ unlink('/Volumes/data/phptemp/image.jpg'); }
+		
+		// Set view variables
+		$this->set('data',$data);
+		$this->set('args',array('query'=>$query));
+		
+		// Return data to view/requester
+		if($output=="json"):						echo json_encode($data);exit;
+		elseif($output=="redirect"):				$this->redirect('/items/view/'.$pid);
+		elseif(isset($this->params['requested'])):	return $data;
+		elseif($this->params['isAjax']==1):			$this->layout='ajax';
+		endif;
+	}
+	else
+	{
+		// Get data about current collections
+		if($col!=""):	$data=$this->Fobject->view($col);
+		else:			$data=$this->Collection->index();
+		endif;
+	
+		// Set view variable
+		$this->set('data',$data);
+		$this->set('args',array('col'=>$col));
+		
+		// Return to view
+		if($this->params['isAjax']==1) { $this->layout='ajax'; }
+	}
+}	

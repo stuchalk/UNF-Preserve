@@ -1,0 +1,648 @@
+
+	{
+	"pid": "unfenvc:512",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Tall Jointweed Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2014-01-06T20:11:18.494Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-11T15:45:32.262Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-06T20:11:18.494Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "386"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"identifier": "unfenvc:512"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-06T20:11:18.789Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "618"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-06T15:11:18-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:512"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:22:16.396Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "617"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-06T15:11:18-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:512"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:07:45.469Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "617"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-01-06T15:11:18-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:512"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:15.914Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "618"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:15-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:512"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T15:45:32.262Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "618"
+						
+					},
+				"content": {
+				
+					"title": "Tall Jointweed Photo 1"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-02-11T10:45:32-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:512"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2014-01-06T20:11:18.864Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3529"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2011:08:16 10:46:07"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/660 sec."
+				,
+				"f-number": "f/4.7"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:08:16 10:46:07"
+				,
+				"date_and_time__digitized_": "2011:08:16 10:46:07"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "4.40 EV (f/4.6)"
+				,
+				"brightness": "7.40 EV (578.68 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "5.8 mm"
+				,
+				"maker_note": "18394 bytes undefined data"
+				,
+				"user_comment": "GCM_TAG"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 43.89"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 31, 1.50"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "10"
+				,
+				"gps_time__atomic_clock_": "14:46:44.00"
+				,
+				"gps_satellites": "23,13,06,32,31,16,03,20,,,,                    "
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"measurement_precision": "2.10"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "114"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:08:16"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2014-01-06T20:11:18.943Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "279"
+				
+			},
+			"content": {
+			
+			"name": "Tall Jointweed",
+			"desc": "&lt;i&gt;Polygonella gracilis&lt;/i&gt;",
+			"coordinates": "-81.517083333333,30.278858333333,10"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-06T20:11:18.583Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-06T20:11:18.641Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-06T20:11:18.683Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:468"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-01-06T20:11:19.029Z"
+				,
+				"alt_ids": "Polygonella-gracilis--branched-stem.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2769465"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/Source/2014-01-06T20:11:19.029Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T21:40:46.878Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2769465"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/Source/2014-05-15T21:40:46.878Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:26:06.501Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2769465"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/Source/2014-12-16T15:26:06.501Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-01-06T20:11:19.108Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Polygonella-gracilis--branched-stem.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "79108"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/THUMB/2014-01-06T20:11:19.108Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T21:40:47.230Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "79108"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/THUMB/2014-05-15T21:40:47.230Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:44:19.190Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "79108"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/THUMB/2014-12-16T15:44:19.190Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:28:07.501Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "79389"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:512/THUMB/2014-12-17T13:28:07.501Z"
+			}
+			}
+			
+		]
+	}
+	

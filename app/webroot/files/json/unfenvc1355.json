@@ -1,0 +1,332 @@
+
+	{
+	"pid": "unfenvc:1355",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Flatid planthopper Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-08-25T14:31:00.860Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-08-25T14:31:01.437Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-08-25T14:31:01.140Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "657"
+						
+					},
+				"content": {
+				
+					"title": "Flatid planthopper Photo 1"
+					,
+					"creator": "Chuck Hubbuch"
+					,
+					"date": "2015-08-25T10:30:59-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1355"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-08-25T14:31:01.260Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2363"
+				
+			},
+			"content": {
+			
+				"manufacturer": "NIKON CORPORATION"
+				,
+				"model": "NIKON D610"
+				,
+				"x-resolution": "300"
+				,
+				"y-resolution": "300"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "Adobe Photoshop Camera Raw 8.5 (Windows)"
+				,
+				"date_and_time": "2015:08:21 07:09:05"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/60 sec."
+				,
+				"f-number": "f/5.6"
+				,
+				"exposure_program": "Not defined"
+				,
+				"iso_speed_ratings": "720"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2015:08:20 01:35:46"
+				,
+				"date_and_time__digitized_": "2015:08:20 01:35:46"
+				,
+				"shutter_speed": "5.91 EV (1/60 sec.)"
+				,
+				"aperture": "4.97 EV (f/5.6)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "5.00 EV (f/5.7)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash fired, auto mode, return light detected"
+				,
+				"focal_length": "300.0 mm"
+				,
+				"sub-second_time__original_": "90"
+				,
+				"sub-second_time__digitized_": "90"
+				,
+				"focal_plane_x-resolution": "1675.01498"
+				,
+				"focal_plane_y-resolution": "1675.01498"
+				,
+				"focal_plane_resolution_unit": "Centimeter"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"file_source": "DSC"
+				,
+				"scene_type": "Directly photographed"
+				,
+				"cfa_pattern": "8 bytes undefined data"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": " 1"
+				,
+				"focal_length_in_35mm_film": "300"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"gain_control": "Low gain up"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Unknown"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "Uncalibrated"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-08-25T14:31:01.317Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "272"
+				
+			},
+			"content": {
+			
+			"name": "Flatid planthopper",
+			"desc": "&lt;i&gt;Flataloides scabrosus&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-08-25T14:31:00.934Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-08-25T14:31:01.020Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-08-25T14:31:01.068Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "330"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					,
+						"ispartof": "invert:248"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-08-25T14:31:01.375Z"
+				,
+				"alt_ids": "Flataloides_scabrosus.CHubbuch.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "1503915"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1355+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-08-25T14:31:01.437Z"
+				,
+				"alt_ids": "Flataloides_scabrosus.CHubbuch.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "132191"
+				
+			},
+			"content": {
+			"url": "unfenvc:1355+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

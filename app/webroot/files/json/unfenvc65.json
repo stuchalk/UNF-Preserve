@@ -1,0 +1,1110 @@
+
+	{
+	"pid": "unfenvc:65",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Alligatorweed Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-30T15:48:35.911Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-01-20T18:05:12.676Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:48:35.911Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "384"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"identifier": "unfenvc:65"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:48:36.274Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "616"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:48:36-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:65"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:19:15.511Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "615"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:48:36-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:65"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:15.440Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "615"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:48:36-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:65"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:27.579Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "616"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:27-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:65"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-01-20T18:05:12.676Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "616"
+						
+					},
+				"content": {
+				
+					"title": "Alligatorweed Photo 1"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-01-20T13:05:12-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:65"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-10-30T15:48:36.348Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3534"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2011:09:27 09:03:52"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/84 sec."
+				,
+				"f-number": "f/3.9"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "238"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:09:27 09:03:52"
+				,
+				"date_and_time__digitized_": "2011:09:27 09:03:52"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "3.90 EV (f/3.9)"
+				,
+				"brightness": "2.50 EV (19.38 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "15.0 mm"
+				,
+				"maker_note": "19002 bytes undefined data"
+				,
+				"user_comment": ""
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 58.83"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 38.89"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "17"
+				,
+				"gps_time__atomic_clock_": "13:04:43.00"
+				,
+				"gps_satellites": "06,16,23,03,19,13,07,,,,,                      "
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"measurement_precision": "3.00"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "30"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:09:27"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-30T15:48:36.427Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "285"
+				
+			},
+			"content": {
+			
+			"name": "Alligatorweed",
+			"desc": "&lt;i&gt;Alternanthera philoxeroides&lt;/i&gt;",
+			"coordinates": "-81.510802777778,30.266341666667,17"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:48:36.012Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:48:36.077Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:48:36.138Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:173"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-30T15:48:36.520Z"
+				,
+				"alt_ids": "Alternanthera-philoxeroides-2.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2013-10-30T15:48:36.520Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-09T20:10:09.719Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-09T20:10:09.719Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-09T20:17:08.182Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-09T20:17:08.182Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.3"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-09T20:17:09.653Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-09T20:17:09.653Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.4"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-09T20:19:20.524Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-09T20:19:20.524Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.5"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T13:32:07.685Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T13:32:07.685Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.6"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T13:33:30.242Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T13:33:30.242Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.7"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T13:33:53.042Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T13:33:53.042Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.8"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T13:39:46.377Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T13:39:46.377Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.9"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T16:35:12.311Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T16:35:12.311Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.10"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:20:23.504Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:20:23.504Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.11"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:29:49.073Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:29:49.073Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.12"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:34:55.316Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:34:55.316Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.13"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:36:52.215Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:36:52.215Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.14"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:38:58.057Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:38:58.057Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.15"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:39:38.097Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:39:38.097Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.16"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:39:57.480Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:39:57.480Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.17"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:41:37.694Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:41:37.694Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.18"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:42:01.609Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:42:01.609Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.19"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:51:19.726Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:51:19.726Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.20"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:52:16.192Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:52:16.192Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.21"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:52:55.120Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:52:55.120Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.22"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:53:51.485Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-05-15T18:53:51.485Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.23"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:26:49.113Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3046920"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/Source/2014-12-16T15:26:49.113Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-10-30T15:48:36.629Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Alternanthera-philoxeroides-2.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "75859"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/THUMB/2013-10-30T15:48:36.629Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:20:24.044Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "75859"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/THUMB/2014-05-15T18:20:24.044Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:44:18.195Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "75859"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/THUMB/2014-12-16T15:44:18.195Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:50:09.864Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "89569"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:65/THUMB/2014-12-17T13:50:09.864Z"
+			}
+			}
+			
+		]
+	}
+	

@@ -1,0 +1,1120 @@
+
+	{
+	"pid": "unfenvc:447",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Cutleaf Eveningprimrose Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-12-03T14:42:22.774Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-23T18:10:47.460Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-12-03T14:42:22.774Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "395"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"identifier": "unfenvc:447"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-12-03T14:42:23.074Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "627"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:22:05.628Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:07:29.289Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:13:58.946Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "709"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"date": "2014-12-16T11:13:58-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:21:37.260Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.6"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:23:28.818Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "709"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"date": "2014-12-16T11:23:28-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.7"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:25:41.957Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.8"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:25:56.323Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "674"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"date": "2014-12-16T11:25:56-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.9"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:38:27.834Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-12-03T09:42:23-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.10"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:50:51.847Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "700"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Joe Bloggs"
+					,
+					"creator": "John Doe"
+					,
+					"date": "2014-12-16T11:50:51-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.11"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:51:48.240Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "701"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Joe Bloggs"
+					,
+					"creator": "John Doe"
+					,
+					"date": "2014-12-16T11:51:48-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.12"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:52:01.498Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "665"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Joe Bloggs"
+					,
+					"creator": "John Doe"
+					,
+					"date": "2014-12-16T11:51:48-05:00"
+					,
+					"type": "Image"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.13"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T16:52:37.071Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "701"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Joe Bloggs"
+					,
+					"creator": "John Doe"
+					,
+					"date": "2014-12-16T11:51:48-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.14"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:03:55.437Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "626"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T11:51:48-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.15"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:08:30.384Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "627"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:08:30-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.16"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-23T18:10:47.460Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "627"
+						
+					},
+				"content": {
+				
+					"title": "Cutleaf Eveningprimrose Photo 1"
+					,
+					"creator": "Jason McGregor"
+					,
+					"date": "2015-02-23T13:10:47-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:447"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-12-03T14:42:23.120Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "3534"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "RICOH      "
+				,
+				"model": "Caplio 500SE   "
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2011:12:06 09:45:06"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"copyright": "(C) Caplio 500SE User     (Photographer) - [None] (Editor)"
+				,
+				"print_image_matching": "256 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/32 sec."
+				,
+				"f-number": "f/2.5"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "192"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2011:12:06 09:45:06"
+				,
+				"date_and_time__digitized_": "2011:12:06 09:45:06"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "2.80"
+				,
+				"aperture": "2.60 EV (f/2.5)"
+				,
+				"brightness": "-0.10 EV (3.20 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "2.50 EV (f/2.4)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "5.8 mm"
+				,
+				"maker_note": "21346 bytes undefined data"
+				,
+				"user_comment": ""
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"sharpness": "Normal"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 13.95"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 44.66"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "17"
+				,
+				"gps_time__atomic_clock_": "13:44:35.00"
+				,
+				"gps_satellites": "20,17,28,01,,,,,,,,                            "
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"measurement_precision": "5.50"
+				,
+				"speed_unit": "N"
+				,
+				"speed_of_gps_receiver": " 0"
+				,
+				"reference_for_direction_of_movement": "T"
+				,
+				"direction_of_movement": "262"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": " 0"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"reference_for_bearing_of_destination": "T"
+				,
+				"bearing_of_destination": "0/0"
+				,
+				"reference_for_distance_to_destination": "K"
+				,
+				"distance_to_destination": "0/0"
+				,
+				"gps_date": "2011:12:06"
+				,
+				"gps_differential_correction": "0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-12-03T14:42:23.170Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "287"
+				
+			},
+			"content": {
+			
+			"name": "Cutleaf Eveningprimrose",
+			"desc": "&lt;i&gt;Oenothera laciniata&lt;/i&gt;",
+			"coordinates": "-81.512405555556,30.270541666667,17"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-12-03T14:42:22.855Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-12-03T14:42:22.981Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-12-03T14:42:23.010Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:455"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-12-03T14:42:23.224Z"
+				,
+				"alt_ids": "Oenothera-laciniata-1.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2556213"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/Source/2013-12-03T14:42:23.224Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T21:38:46.683Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2556213"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/Source/2014-05-15T21:38:46.683Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:24:00.980Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2556213"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/Source/2014-12-16T15:24:00.980Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-12-03T14:42:23.336Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/Oenothera-laciniata-1.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2013-12-03T14:42:23.336Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T21:38:46.336Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-05-15T21:38:46.336Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:42:39.910Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-12-16T15:42:39.910Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T18:34:22.871Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-12-16T18:34:22.871Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.4"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T18:35:14.641Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-12-16T18:35:14.641Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.5"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T10:11:11.674Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54095"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-12-17T10:11:11.674Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.6"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T10:16:58.384Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "62534"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:447/THUMB/2014-12-17T10:16:58.384Z"
+			}
+			}
+			
+		]
+	}
+	

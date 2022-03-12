@@ -1,0 +1,99 @@
+﻿/* Reset */ 
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,code,del,dfn,em,img,q,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,dialog,figure,footer,header,hgroup,nav,section{margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline}article,aside,dialog,figure,footer,header,hgroup,nav,section{display:block}body{line-height:1}a img{border:none}table{border-collapse:separate;border-spacing:0}caption,th,td{text-align:left;font-weight:normal}table,td,th{vertical-align:middle}blockquote:before,blockquote:after,q:before,q:after{content:""}blockquote,q{quotes:""""}:focus{outline:0}ins{text-decoration:none}del{text-decoration:line-through}button::-moz-focus-inner{border:0}
+.clear {clear:both}
+
+/*********************/
+/*     UNF BRAND     */
+/*********************/
+body {background-color: #fff; font-family: arial, Century Gothic, sans-serif; margin:0; padding:0; font-size: 76%; line-height:1.3em;}
+a, a:active {color: #2879b4; text-decoration: none;}
+a:hover {color: #803795; text-decoration: underline;}
+
+#UNFheader {  
+background: #013f70; 
+background: -moz-linear-gradient(left,  #013f70 17%, #1f89c5 82%);
+background: -webkit-gradient(linear, left top, right top, color-stop(17%,#013f70), color-stop(82%,#1f89c5));
+background: -webkit-linear-gradient(left,  #013f70 17%,#1f89c5 82%); 
+background: -o-linear-gradient(left,  #013f70 17%,#1f89c5 82%); 
+background: -ms-linear-gradient(left,  #013f70 17%,#1f89c5 82%); 
+background: linear-gradient(to right,  #013f70 17%,#1f89c5 82%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#013f70', endColorstr='#1f89c5',GradientType=1 );}
+#UNFheader .wings {width: 90%; margin: 0 auto; background:url('/img/wings.png') no-repeat 500px 0px;} 
+#UNFheader .logo {min-width:230px; display:inline-block; padding: 8px; z-index:1 !important}
+#UNFheader .mywings {float:right;}
+
+#UNFheader .search {min-width:230px; float:right; display:inline-block;}
+#UNFheader .searchCode {text-align:right; margin: 10px 0px 5px 0; min-width:275px; font-size: 1em;}
+#UNFheader .searchCode input#box {width: 180px; padding: 1px 5px; margin-right: 3px; height: 16px;  background:#fff !important}
+#UNFheader .searchCode input#go {background:#ededed; border-radius:5px; border:1px solid #dcdcdc; display:inline-block; color:#777777; width:35px; font-weight:bold; padding:1px; font-size:10pt}
+#UNFheader .searchCode .searchLink {text-align: right; margin:5px 2px 0px 0px; font-size:12px;}
+#UNFheader .searchCode .searchLink a {font-family: Arial, Helvetica, sans-serif; color: #B2C9E2; text-decoration: none; text-transform: uppercase;	font-size: .90em;}
+#UNFheader .searchCode .searchLink a:hover {color: #ffce00;	text-decoration: none;}
+
+#UNFnav{min-height:15px; border-radius:0px; border-bottom:1px solid #979AA0; border-top:1px solid #8b8b8b;
+  background: #8a8d94; 
+  background: -moz-linear-gradient(top, #707577 17%, #8a8d94 82%); 
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(17%,#707577 ), color-stop(82%,#8a8d94));
+  background: -webkit-linear-gradient(top, #707577 17%,#8a8d94 82%); 
+  background: -o-linear-gradient(top, #707577 17%,#8a8d94 82%); 
+  background: -ms-linear-gradient(top, #707577 17%,#8a8d94 82%); 
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#707577', endColorstr='#8a8d94',GradientType=0 );}
+#UNFnav ul {width: 90%; margin:0px; font-weight: bold; text-align: center; padding: 0px; list-style-type: none;}
+#UNFnav li {display:inline; vertical-align:top;}
+#UNFnav li a {padding: 8px 3%; display:inline-block; color: #fff; text-decoration: none;}
+#UNFnav li a:hover{display:inline-block; color: #272f32;}
+
+#container {width:90%; margin:0px auto; padding:25px 0px;}
+
+#UNFfooter {background: #003886; margin-top:25px}
+#UNFfooter .container {width:90%; margin: 0 auto;}
+#UNFfooter .copyright {display:inline-block; width:49%; padding:15px 0px;}
+#UNFfooter .links {display:inline-block; width:50%; padding:15px 0px; text-align:right;}
+#UNFfooter p {color: #fff; margin: 0; font-size: 11px; font-weight: bold;}
+#UNFfooter a{color:#ffce00; text-decoration: none;}
+#UNFfooter a:hover{color:#ffce00;	text-decoration: underline;}
+
+/*
+h1{font-family: Arial, Helvetica, sans-serif;
+	font-size: 2em;
+	line-height: 1em;
+	margin-bottom: 1em;
+	color: #6f6f6f;
+	font-weight: normal;
+	}
+h2 {
+	font-family: Arial, Helvetica, sans-serif;
+	margin-bottom: .5em;
+	color: #003886;
+	font-size: 1.5em;
+	line-height: 1.75em;
+	font-weight: bold;
+}
+*/
+h3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	line-height: 1.2em;
+	margin-bottom: .5em;
+	color: #003886;
+	font-weight: bold;	
+}
+h4 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	line-height: 1.25em;
+	margin-bottom: .5em;
+	color: #456b96;
+	font-weight: bold;
+}
+h5 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.1em;
+	line-height: 1.25em;
+	margin-bottom: .5em;
+	color: #6f6f6f;
+	font-weight: bold;
+}
+table, th, td {border-spacing: 0px; border-collapse: collapse; font-size: 1em; vertical-align: top;}
+td h1, td h2, td h3, td h4, td h5 {margin-top:0px}
+caption {color: #fff; visibility: hidden; font-size: 0px; display: none}

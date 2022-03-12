@@ -1,0 +1,449 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:18"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Plant Bed Bldg 58E South"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2010-06-03T20:02:25.582Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-11T16:34:02.235Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2010-06-03T20:02:25.582Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.582Z</audit:date>
+<audit:justification>Created object</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.670Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.694Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.719Z</audit:date>
+<audit:justification>Added source</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.787Z</audit:date>
+<audit:justification>Added EXIF</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:25.825Z</audit:date>
+<audit:justification>Added KML</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-06-03T20:02:26.614Z</audit:date>
+<audit:justification>Added RELS-EXT</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-04-27T11:02:33.258Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-04-27T11:02:50.624Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-04-27T11:55:05.228Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-09-23T16:04:10.393Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-01T19:47:44.368Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T18:16:25.066Z</audit:date>
+<audit:justification>unfenvc:18-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:27:11.845Z</audit:date>
+<audit:justification>unfenvc:18-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:33:59.772Z</audit:date>
+<audit:justification>unfenvc:18-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:34:01.047Z</audit:date>
+<audit:justification>unfenvc:18-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:34:01.322Z</audit:date>
+<audit:justification>Added source file IMGP0235.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:34:01.663Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:34:01.953Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:34:02.235Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2010-06-03T20:02:25.694Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="740">
+<foxml:contentDigest TYPE="MD5" DIGEST="764469f73375c007646cef6ff85a2035"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Plant Bed Bldg 58E South</dc:title>
+  <dc:identifier>unfenvc:18</dc:identifier>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:rights>UNF - Internal Use</dc:rights>
+  <dc:license>Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License</dc:license>
+  <dc:rightsHolder>UNF Environmental Center</dc:rightsHolder>
+  <dc:description>Plant bed to the south of Building 58E (Student Union).</dc:description>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2010-06-03T20:02:25.670Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="740">
+<foxml:contentDigest TYPE="MD5" DIGEST="764469f73375c007646cef6ff85a2035"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Plant Bed Bldg 58E South</dc:title>
+  <dc:identifier>unfenvc:18</dc:identifier>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:rights>UNF - Internal Use</dc:rights>
+  <dc:license>Creative Commons Attribution-Noncommercial-No Derivative Works 3.0 United States License</dc:license>
+  <dc:rightsHolder>UNF Environmental Center</dc:rightsHolder>
+  <dc:description>Plant bed to the south of Building 58E (Student Union).</dc:description>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2010-06-03T20:02:25.582Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="387">
+<foxml:contentDigest TYPE="MD5" DIGEST="d86664ab5c19c6ec959199de60f20050"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Plant Bed Bldg 58E South</dc:title>
+  <dc:identifier>unfenvc:18</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2013-04-27T11:55:05.228Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="595">
+<foxml:contentDigest TYPE="MD5" DIGEST="39cae1a4d9fc8949418a1f8b9aaa6c7e"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Plant Bed Bldg 58E South</dc:title>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>Plant bed to the south of Building 58E (Student Union).</dc:description>
+  <dc:identifier>unfenvc:18</dc:identifier>
+  <dc:rights>Copyright UNF and the UNF Environmental Center 2013</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T16:34:01.047Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="745">
+<foxml:contentDigest TYPE="MD5" DIGEST="3502fd64a08befc55bd2f17ee2c1979b"/>
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Plant Bed Bldg 58E South</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:description>Plant bed to the south of Building 58E (Student Union).</dc:description>
+  <dc:date>2015-02-11T11:33:57-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:18</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2010-06-03T20:02:25.787Z" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/2008/REC-xml-20081126/" SIZE="3443">
+<foxml:contentDigest TYPE="MD5" DIGEST="4e50ed2f315151e7fdcfc3f5ec6f55fe"/>
+<foxml:xmlContent>
+<exif>
+  <Image_Description>None</Image_Description>
+  <Manufacturer>RICOH</Manufacturer>
+  <Model>Caplio 500SE</Model>
+  <Orientation>top - left</Orientation>
+  <x-Resolution>72.00</x-Resolution>
+  <y-Resolution>72.00</y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Date_and_Time>2010:03:19 13:29:15</Date_and_Time>
+  <YCbCr_Positioning>co-sited</YCbCr_Positioning>
+  <Copyright>(C) Caplio 500SE User     (Photographer) -  (Editor)</Copyright>
+  <PRINT_Image_Matching>256 bytes undefined data</PRINT_Image_Matching>
+  <Compression>JPEG compression</Compression>
+  <Exposure_Time>1/710 sec.</Exposure_Time>
+  <FNumber>f/4.7</FNumber>
+  <Exposure_Program>Normal program</Exposure_Program>
+  <ISO_Speed_Ratings>64</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.21</Exif_Version>
+  <Date_and_Time_original>2010:03:19 13:29:15</Date_and_Time_original>
+  <Date_and_Time_digitized>2010:03:19 13:29:15</Date_and_Time_digitized>
+  <Components_Configuration>Y Cb Cr -</Components_Configuration>
+  <Compressed_Bits_per_Pixel>1.60</Compressed_Bits_per_Pixel>
+  <Aperture>4.40 EV (f/4.6)</Aperture>
+  <Brightness>7.80 EV (763.58 cd/m^2)</Brightness>
+  <Exposure_Bias>0.00 EV</Exposure_Bias>
+  <Maximum_Aperture_Value>2.50 EV (f/2.4)</Maximum_Aperture_Value>
+  <Metering_Mode>Pattern</Metering_Mode>
+  <Light_Source>Unknown</Light_Source>
+  <Flash>Flash did not fire, auto mode</Flash>
+  <Focal_Length>5.8 mm</Focal_Length>
+  <Maker_Note>18294 bytes undefined data</Maker_Note>
+  <User_Comment>GCM_TAG</User_Comment>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <PixelXDimension>2048</PixelXDimension>
+  <PixelYDimension>1536</PixelYDimension>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+  <Sharpness>Normal</Sharpness>
+  <GPS_tag_version>2.2.0.0</GPS_tag_version>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30.00, 16.00, 17.16</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81.00, 30.00, 31.55</Longitude>
+  <Altitude_reference>Sea level</Altitude_reference>
+  <Altitude>19.00</Altitude>
+  <GPS_time_atomic_clock>18:40:12.00</GPS_time_atomic_clock>
+  <GPS_satellites_used_for_measurement>22,18,21,09,14,26,24,27,,,,</GPS_satellites_used_for_measurement>
+  <GPS_receiver_status>A</GPS_receiver_status>
+  <GPS_measurement_mode>3</GPS_measurement_mode>
+  <Measurement_precision>2.90</Measurement_precision>
+  <Speed_unit>N</Speed_unit>
+  <Speed_of_GPS_receiver>0.00</Speed_of_GPS_receiver>
+  <Reference_for_direction_of_movement>T</Reference_for_direction_of_movement>
+  <Direction_of_movement>61.00</Direction_of_movement>
+  <GPS_Img_Direction_Reference>T</GPS_Img_Direction_Reference>
+  <GPS_Img_Direction>0.00</GPS_Img_Direction>
+  <Geodetic_survey_data_used>WGS-84</Geodetic_survey_data_used>
+  <Reference_for_bearing_of_destination>T</Reference_for_bearing_of_destination>
+  <Bearing_of_destination>0/0</Bearing_of_destination>
+  <Reference_for_distance_to_destination>K</Reference_for_distance_to_destination>
+  <Distance_to_destination>0/0</Distance_to_destination>
+  <GPS_date>2010:03:19</GPS_date>
+  <GPS_differential_correction>1</GPS_differential_correction>
+  <Interoperability_Index>R98</Interoperability_Index>
+  <Interoperability_Version>0100</Interoperability_Version>
+  <ThumbnailSize>6143</ThumbnailSize>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="EXIF.1" LABEL="EXIF Data" CREATED="2015-02-11T16:34:01.663Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="312">
+<foxml:xmlContent>
+<exif>
+  <Image_Description>No EXIF in file so this is default set.</Image_Description>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 15, 57.5634</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 42.5844</Longitude>
+  <Altitude>0.0</Altitude>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2010-06-03T20:02:25.825Z" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml" SIZE="308">
+<foxml:contentDigest TYPE="MD5" DIGEST="a0cbfe360c3500a553057aeb9391baab"/>
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Plant Bed Bldg 58E South</name>
+    <description>Plant bed to the south of Building 58E (Student Union).</description>
+    <Point>
+      <coordinates>-81.508763888889,30.271433333333,19.00</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="KML.1" LABEL="OGC/Google KML(GPS) Data" CREATED="2015-02-11T16:34:01.953Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml" SIZE="260">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Muscadine</name>
+    <description>&lt;i&gt;Vitis rotundifolia&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.26599,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships to other objects" CREATED="2010-06-03T20:02:26.614Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="474">
+<foxml:contentDigest TYPE="MD5" DIGEST="3a905b905f1f843bf78db98b70e9c66b"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:18">
+    <rel:isCollection>false</rel:isCollection>
+    <rel:isMemberOf rdf:resource="info:fedora/unfenvc:2"></rel:isMemberOf>
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_GeotaggedImage"></mod:hasModel>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships to other objects" CREATED="2013-04-27T11:02:50.624Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="352">
+<foxml:contentDigest TYPE="MD5" DIGEST="a47a6546fa0a37d690245d5b9b265cb1"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:18">
+    <isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:2"></isItemOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2015-02-11T16:33:59.772Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="151">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:18"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.3" LABEL="Relationships" CREATED="2015-02-11T16:34:00.011Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="237">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:18">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.4" LABEL="Relationships" CREATED="2015-02-11T16:34:00.173Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="327">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:18">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:528</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2010-06-03T20:02:25.719Z" ALT_IDS="RIMG0016.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="-1">
+<foxml:contentDigest TYPE="MD5" DIGEST="a92496d9eda550ede53908c6375b5cf2"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2010-06-03T20:02:25.719Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.1" LABEL="Source file" CREATED="2013-09-23T16:04:10.393Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="632067">
+<foxml:contentDigest TYPE="MD5" DIGEST="a92496d9eda550ede53908c6375b5cf2"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2013-09-23T16:04:10.393Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.2" LABEL="Source file" CREATED="2013-10-01T19:47:44.368Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="822402">
+<foxml:contentDigest TYPE="MD5" DIGEST="00032e2e693298782ccdfe2082e8cebd"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2013-10-01T19:47:44.368Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.3" LABEL="Source file" CREATED="2014-05-15T18:16:25.066Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="822402">
+<foxml:contentDigest TYPE="MD5" DIGEST="00032e2e693298782ccdfe2082e8cebd"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2014-05-15T18:16:25.066Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.4" LABEL="Source file" CREATED="2014-12-16T15:27:11.845Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="822402">
+<foxml:contentDigest TYPE="MD5" DIGEST="00032e2e693298782ccdfe2082e8cebd"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2014-12-16T15:27:11.845Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.5" LABEL="Source file" CREATED="2015-02-11T16:34:01.322Z" ALT_IDS="IMGP0235.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4012443">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/Source/2015-02-11T16:34:01.322Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2015-02-11T16:34:02.235Z" ALT_IDS="IMGP0235.JPG_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="181424">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:18/THUMB/2015-02-11T16:34:02.235Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

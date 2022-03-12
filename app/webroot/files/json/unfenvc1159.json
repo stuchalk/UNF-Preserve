@@ -1,0 +1,367 @@
+
+	{
+	"pid": "unfenvc:1159",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Broad-Headed Skink Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-04-02T19:33:47.314Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-04-02T19:34:00.773Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-04-02T19:33:48.454Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "658"
+						
+					},
+				"content": {
+				
+					"title": "Broad-Headed Skink Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2015-04-02T15:33:43-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1159"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-04-02T19:34:00.773Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "658"
+						
+					},
+				"content": {
+				
+					"title": "Broad-Headed Skink Photo 1"
+					,
+					"creator": "Rachel Bladow"
+					,
+					"date": "2015-04-02T15:34:00-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1159"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-04-02T19:33:49.041Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2224"
+				
+			},
+			"content": {
+			
+				"manufacturer": "CASIO COMPUTER CO.,LTD."
+				,
+				"model": "EX-H30"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "1.00"
+				,
+				"date_and_time": "2013:09:04 13:43:53"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "46 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/160 sec."
+				,
+				"f-number": "f/5.9"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "125"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:09:04 13:43:53"
+				,
+				"date_and_time__digitized_": "2013:09:04 13:43:53"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": "5.50925926"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "3.20 EV (f/3.0)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "53.0 mm"
+				,
+				"maker_note": "10982 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "4608"
+				,
+				"pixel_y_dimension": "3456"
+				,
+				"file_source": "DSC"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "0/0"
+				,
+				"focal_length_in_35mm_film": "300"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"gain_control": "High gain up"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "High saturation"
+				,
+				"sharpness": "Soft"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-04-02T19:33:49.329Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "270"
+				
+			},
+			"content": {
+			
+			"name": "Broad-Headed Skink",
+			"desc": "&lt;i&gt;Plestiodon laticeps&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-02T19:33:47.581Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-02T19:33:47.774Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:24"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-02T19:33:47.917Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:24"
+					,
+						"ispartof": "herp:021"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-04-02T19:33:49.594Z"
+				,
+				"alt_ids": "Rachel_Bladow_2.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "6590839"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1159+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-04-02T19:33:49.867Z"
+				,
+				"alt_ids": "Rachel_Bladow_2.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "114935"
+				
+			},
+			"content": {
+			"url": "unfenvc:1159+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

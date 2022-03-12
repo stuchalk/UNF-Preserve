@@ -1,0 +1,815 @@
+
+	{
+	"pid": "unfenvc:39",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Hooded Pitcherplant Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-18T19:03:42.873Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2014-12-17T13:50:08.308Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-18T19:03:42.873Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "390"
+						
+					},
+				"content": {
+				
+					"title": "Hooded Pitcherplant Photo 1"
+					,
+					"identifier": "unfenvc:39"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-18T19:03:43.180Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Hooded Pitcherplant Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-18T15:03:43-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:39"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:19:11.332Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "621"
+						
+					},
+				"content": {
+				
+					"title": "Hooded Pitcherplant Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-18T15:03:43-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:39"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:10.972Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "621"
+						
+					},
+				"content": {
+				
+					"title": "Hooded Pitcherplant Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-18T15:03:43-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:39"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:11:27.081Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Hooded Pitcherplant Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:11:27-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:39"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-10-18T19:03:43.263Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2762"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING   "
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "PENTAX WG-3 GPS Ver. 1.00"
+				,
+				"date_and_time": "2013:08:07 13:47:46"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/80 sec."
+				,
+				"f-number": "f/3.1"
+				,
+				"iso_speed_ratings": "250"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:08:07 13:47:46"
+				,
+				"date_and_time__digitized_": "2013:08:07 13:47:46"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "5.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "1920"
+				,
+				"pixel_y_dimension": "1080"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "31"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Macro"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 41.238"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 31, 1.182"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "11.60"
+				,
+				"gps_time__atomic_clock_": "17:47:34.00"
+				,
+				"gps_satellites": "09"
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": "84.39"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"gps_date": "2013:08:07"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "EXIF.1"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2014-01-07T19:36:28.807Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2010"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING   "
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "PENTAX WG-3 GPS Ver. 1.00"
+				,
+				"date_and_time": "2013:08:07 13:47:46"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/80 sec."
+				,
+				"f-number": "f/3.1"
+				,
+				"iso_speed_ratings": "250"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:08:07 13:47:46"
+				,
+				"date_and_time__digitized_": "2013:08:07 13:47:46"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "5.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "1920"
+				,
+				"pixel_y_dimension": "1080"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "31"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Macro"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-18T19:03:43.347Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "277"
+				
+			},
+			"content": {
+			
+			"name": "Hooded Pitcherplant",
+			"desc": "&lt;i&gt;Sarracenia minor&lt;/i&gt;",
+			"coordinates": "-81.516995,30.278121666667,11.60"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.1"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-18T20:55:35.305Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "266"
+				
+			},
+			"content": {
+			
+			"name": "Hooded Pitcherplant",
+			"desc": "&lt;i&gt;Sarracenia minor&lt;/i&gt;",
+			"coordinates": "30.26599,-81.511829,0"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "KML.2"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-18T20:57:15.853Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "266"
+				
+			},
+			"content": {
+			
+			"name": "Hooded Pitcherplant",
+			"desc": "&lt;i&gt;Sarracenia minor&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-18T19:03:42.987Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-18T19:03:43.037Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-18T19:03:43.076Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:515"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-18T19:03:43.398Z"
+				,
+				"alt_ids": "IMGP1318.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4074682"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/Source/2013-10-18T19:03:43.398Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-01-07T19:36:42.542Z"
+				,
+				"alt_ids": "IMGP1318.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4074682"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/Source/2014-01-07T19:36:42.542Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-01-07T19:46:03.142Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3720809"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/Source/2014-01-07T19:46:03.142Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.3"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:18:44.353Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3720809"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/Source/2014-05-15T18:18:44.353Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.4"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:25:56.457Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3720809"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/Source/2014-12-16T15:25:56.457Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-10-18T19:03:43.468Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/IMGP1318.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "165836"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/THUMB/2013-10-18T19:03:43.468Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-01-07T19:47:23.673Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "85088"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/THUMB/2014-01-07T19:47:23.673Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:18:44.008Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "85088"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/THUMB/2014-05-15T18:18:44.008Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.4"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:44:28.722Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "85088"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/THUMB/2014-12-16T15:44:28.722Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.5"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:50:08.308Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "144940"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:39/THUMB/2014-12-17T13:50:08.308Z"
+			}
+			}
+			
+		]
+	}
+	

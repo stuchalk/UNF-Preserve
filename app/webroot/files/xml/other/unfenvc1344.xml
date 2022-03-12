@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:1344"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Bronze blister beetle Photo 1"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-07-01T13:32:57.974Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-07-01T13:32:59.165Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-07-01T13:32:57.974Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:57.974Z</audit:date>
+<audit:justification>unfenvc:1344 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:58.377Z</audit:date>
+<audit:justification>unfenvc:1344-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:58.718Z</audit:date>
+<audit:justification>unfenvc:1344-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Original</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:58.786Z</audit:date>
+<audit:justification>Added original file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:58.887Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:58.956Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:59.029Z</audit:date>
+<audit:justification>Added source file Michael Boyles 1.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-07-01T13:32:59.165Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC1.0" LABEL="Dublin Core Record for this object" CREATED="2015-07-01T13:32:57.974Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="394">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bronze blister beetle Photo 1</dc:title>
+  <dc:identifier>unfenvc:1344</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2015-07-01T13:32:58.718Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="661">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Bronze blister beetle Photo 1</dc:title>
+  <dc:creator>Michael Boyles</dc:creator>
+  <dc:date>2015-07-01T09:32:56-04:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:1344</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2015 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2015-07-01T13:32:58.377Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="153">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1344"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2015-07-01T13:32:58.569Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="239">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1344">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:31"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2015-07-01T13:32:58.628Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="330">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1344">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:31"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">invert:243</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Original" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Original.0" LABEL="Original file" CREATED="2015-07-01T13:32:58.786Z" ALT_IDS="Michael_Boyles_1.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3257714">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1344+Original+Original.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2015-07-01T13:32:58.887Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="1956">
+<foxml:xmlContent>
+<exif>
+  <Manufacturer>Apple</Manufacturer>
+  <Model>iPhone 4S</Model>
+  <Orientation>Right-top</Orientation>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Software>7.0.4</Software>
+  <Date_and_Time>2014:01:02 10:59:31</Date_and_Time>
+  <YCbCr_Positioning>Centered</YCbCr_Positioning>
+  <Compression>JPEG compression</Compression>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Exposure_Time>1/60 sec.</Exposure_Time>
+  <F-Number>f/2.4</F-Number>
+  <Exposure_Program>Normal program</Exposure_Program>
+  <ISO_Speed_Ratings>64</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.21</Exif_Version>
+  <Date_and_Time__Original_>2014:01:02 10:59:31</Date_and_Time__Original_>
+  <Date_and_Time__Digitized_>2014:01:02 10:59:31</Date_and_Time__Digitized_>
+  <Components_Configuration>Y Cb Cr -</Components_Configuration>
+  <Shutter_Speed>5.91 EV (1/60 sec.)</Shutter_Speed>
+  <Aperture>2.53 EV (f/2.4)</Aperture>
+  <Brightness>4.98 EV (107.97 cd/m^2)</Brightness>
+  <Metering_Mode>Spot</Metering_Mode>
+  <Flash>Flash did not fire, compulsory flash mode</Flash>
+  <Focal_Length>4.3 mm</Focal_Length>
+  <Maker_Note>208 bytes undefined data</Maker_Note>
+  <Sub-second_Time__Original_>409</Sub-second_Time__Original_>
+  <Sub-second_Time__Digitized_>409</Sub-second_Time__Digitized_>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <Pixel_X_Dimension>3264</Pixel_X_Dimension>
+  <Pixel_Y_Dimension>2448</Pixel_Y_Dimension>
+  <Sensing_Method>One-chip color area sensor</Sensing_Method>
+  <Scene_Type>Directly photographed</Scene_Type>
+  <Custom_Rendered>4</Custom_Rendered>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Focal_Length_in_35mm_Film>35</Focal_Length_in_35mm_Film>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2015-07-01T13:32:58.956Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" SIZE="266">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Bronze blister beetle</name>
+    <description>&lt;i&gt;Lytta polita&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.26599,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2015-07-01T13:32:59.029Z" ALT_IDS="Michael_Boyles_1.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3164600">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1344+Source+Source.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2015-07-01T13:32:59.165Z" ALT_IDS="Michael_Boyles_1.JPG_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="73798">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1344+THUMB+THUMB.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,873 @@
+
+	{
+	"pid": "unfenvc:246",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Tall Elephantsfoot Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-11-18T15:33:06.222Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2014-12-21T18:22:31.916Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-18T15:33:06.222Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "390"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"identifier": "unfenvc:246"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-11-18T15:33:06.584Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-18T10:33:06-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:21:33.225Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "621"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-18T10:33:06-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:50.499Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "621"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-11-18T10:33:06-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:10:22.431Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:10:22-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:05:09.866Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "612"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Test"
+					,
+					"date": "2014-12-21T13:05:09-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.6"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:12:19.661Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "612"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Test"
+					,
+					"date": "2014-12-21T13:12:19-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.7"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:17:25.768Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "612"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Test"
+					,
+					"date": "2014-12-21T13:17:25-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.8"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:17:29.634Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "612"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Test"
+					,
+					"date": "2014-12-21T13:17:29-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.9"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:17:43.269Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-21T13:17:43-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.10"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:19:24.497Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "613"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Chuck"
+					,
+					"date": "2014-12-21T13:19:24-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.11"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:21:34.683Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "614"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin"
+					,
+					"date": "2014-12-21T13:21:34-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.12"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-21T18:22:31.916Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "622"
+						
+					},
+				"content": {
+				
+					"title": "Tall Elephantsfoot Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-21T13:22:31-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:246"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-11-18T15:33:06.648Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2883"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING   "
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "Microsoft Windows Photo Viewer 6.1.7600.16385"
+				,
+				"date_and_time": "2013:09:30 16:56:04"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"padding": "2060 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/800 sec."
+				,
+				"f-number": "f/2.8"
+				,
+				"iso_speed_ratings": "125"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:09:30 14:22:02"
+				,
+				"date_and_time__digitized_": "2013:09:30 14:22:02"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "4.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "2592"
+				,
+				"pixel_y_dimension": "4608"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "25"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Distant view"
+				,
+				"padding": "2060 bytes undefined data"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 16, 13.968"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 31, 2.052"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "5.70"
+				,
+				"gps_time__atomic_clock_": "18:20:58.39"
+				,
+				"gps_satellites": "05"
+				,
+				"gps_receiver_status": "A"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": "87.04"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"gps_date": "2013:09:30"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-11-18T15:33:06.750Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "284"
+				
+			},
+			"content": {
+			
+			"name": "Tall Elephantsfoot",
+			"desc": "&lt;i&gt;Elephantopus elatus&lt;/i&gt;",
+			"coordinates": "-81.517236666667,30.270546666667,5.70"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-18T15:33:06.321Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "152"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-18T15:33:06.419Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "238"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-11-18T15:33:06.462Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:209"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-11-18T15:33:06.828Z"
+				,
+				"alt_ids": "IMGP1225.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4382487"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/Source/2013-11-18T15:33:06.828Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:29:29.001Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4382487"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/Source/2014-05-15T18:29:29.001Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:25:26.075Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4382487"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/Source/2014-12-16T15:25:26.075Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-11-18T15:33:06.917Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/IMGP1225.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "234976"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/THUMB/2013-11-18T15:33:06.917Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:29:28.723Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "234976"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/THUMB/2014-05-15T18:29:28.723Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:43:25.001Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "234976"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/THUMB/2014-12-16T15:43:25.001Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T13:21:59.009Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "214190"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:246/THUMB/2014-12-17T13:21:59.009Z"
+			}
+			}
+			
+		]
+	}
+	

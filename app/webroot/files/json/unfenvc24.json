@@ -1,0 +1,442 @@
+
+	{
+	"pid": "unfenvc:24",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Preserve: Herp Photos"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2014-01-07T19:14:37.493Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-23T01:16:54.087Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-07T19:14:37.493Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "384"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Herp Photos"
+					,
+					"identifier": "unfenvc:24"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-01-07T19:16:26.701Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "866"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Herp Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of amphibians and reptiles on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:24"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T17:08:03.939Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "968"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Herp Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of amphibians and reptiles on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:08:01-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:24"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T19:15:50.864Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "937"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Herp Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of amphibians and reptiles on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:08:01-05:00"
+					,
+					"type": "Collection"
+					,
+					"identifier": "unfenvc:24"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+		],
+		"kmls": [
+		
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-07T19:15:19.740Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"size": "452"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"ispartof": "preserve"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2014-01-07T19:16:48.243Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "452"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"ispartof": "preserve"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:08:02.914Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:08:03.178Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:08:03.336Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:544"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.5"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T19:15:23.094Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "242"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.6"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T16:35:43.653Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "304"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.7"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T16:51:01.119Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "304"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.8"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T17:45:27.383Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "361"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "herp"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.9"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-23T01:16:54.087Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "373"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "herp"
+					,
+						"iscollectionof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+		],
+		"thumbs": [
+		
+		]
+	}
+	

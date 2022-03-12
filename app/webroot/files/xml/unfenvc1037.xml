@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:1037"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Pitcher plant mining moth Photo 2"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-02-04T16:33:15.092Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-04T16:33:19.274Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-02-04T16:33:15.092Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:15.092Z</audit:date>
+<audit:justification>unfenvc:1037 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:15.464Z</audit:date>
+<audit:justification>unfenvc:1037-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:16.940Z</audit:date>
+<audit:justification>unfenvc:1037-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:17.873Z</audit:date>
+<audit:justification>Added source file IMGP3959.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:18.336Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:18.739Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-04T16:33:19.274Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2015-02-04T16:33:15.092Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="398">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pitcher plant mining moth Photo 2</dc:title>
+  <dc:identifier>unfenvc:1037</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2015-02-04T16:33:16.940Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="666">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Pitcher plant mining moth Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2015-02-04T11:33:13-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/pjpeg</dc:format>
+  <dc:identifier>unfenvc:1037</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2015-02-04T16:33:15.464Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="153">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1037"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2015-02-04T16:33:15.861Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="239">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1037">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2015-02-04T16:33:16.028Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="330">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1037">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">invert:058</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2015-02-04T16:33:17.873Z" ALT_IDS="IMGP3959.JPG" MIMETYPE="image/pjpeg" SIZE="4306534">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:1037/Source/2015-02-04T16:33:17.873Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2015-02-04T16:33:18.336Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="312">
+<foxml:xmlContent>
+<exif>
+  <Image_Description>No EXIF in file so this is default set.</Image_Description>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 15, 57.5634</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 42.5844</Longitude>
+  <Altitude>0.0</Altitude>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2015-02-04T16:33:18.739Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" SIZE="274">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Pitcher plant mining moth</name>
+    <description>&lt;i&gt;Exyra semicrocea&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.26599,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2015-02-04T16:33:19.274Z" ALT_IDS="IMGP3959.JPG_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="87487">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:1037/THUMB/2015-02-04T16:33:19.274Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:723"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Spring Lady&apos;s Tresses Photo 1"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-01-21T20:49:01.839Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-23T18:57:42.375Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-01-21T20:49:01.839Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:01.839Z</audit:date>
+<audit:justification>unfenvc:723 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:01.950Z</audit:date>
+<audit:justification>unfenvc:723-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:02.242Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:02.343Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:02.444Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:02.542Z</audit:date>
+<audit:justification>Added source file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:49:02.679Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T22:00:19.299Z</audit:date>
+<audit:justification>unfenvc:723-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T22:00:19.394Z</audit:date>
+<audit:justification>unfenvc:723-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-16T09:22:51.544Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T13:08:22.500Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:25:49.522Z</audit:date>
+<audit:justification>unfenvc:723-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:43:26.922Z</audit:date>
+<audit:justification>unfenvc:723-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T17:10:26.028Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-17T13:22:26.641Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:26:58.791Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:28:48.263Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-23T18:53:47.283Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-23T18:57:42.375Z</audit:date>
+<audit:justification>unfenvc:723-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2014-01-21T20:49:01.839Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="398">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:identifier>unfenvc:723</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2014-01-21T20:49:02.242Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:49:02-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2014-05-16T09:22:51.544Z" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="629">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:49:02-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T13:08:22.500Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="629">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:49:02-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2014-12-16T17:10:26.028Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-12-16T12:10:26-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.5" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T16:26:58.791Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Jason McGregor</dc:creator>
+  <dc:date>2015-02-11T11:26:58-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.6" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T16:28:48.263Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Jason McGregor</dc:creator>
+  <dc:date>2015-02-11T11:28:48-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.7" LABEL="Dublin Core Record for this object" CREATED="2015-02-23T18:53:47.283Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2015-02-23T13:53:47-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.8" LABEL="Dublin Core Record for this object" CREATED="2015-02-23T18:57:42.375Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="630">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Spring Lady&apos;s Tresses Photo 1</dc:title>
+  <dc:creator>Jason McGregor</dc:creator>
+  <dc:date>2015-02-23T13:57:42-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:723</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2014-01-21T20:49:01.950Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="152">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:723"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2014-01-21T20:49:02.053Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="238">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:723">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2014-01-21T20:49:02.116Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="328">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:723">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:537</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2014-01-21T20:49:02.343Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="312">
+<foxml:xmlContent>
+<exif>
+  <Image_Description>No EXIF in file so this is default set.</Image_Description>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 15, 57.5634</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 42.5844</Longitude>
+  <Altitude>0.0</Altitude>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2014-01-21T20:49:02.444Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml/" SIZE="285">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Spring Lady&apos;s Tresses</name>
+    <description>&lt;i&gt;Spiranthes vernalis&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.265989833333,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2014-01-21T20:49:02.542Z" ALT_IDS="Spiranthes-vernalis-1.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2877048">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/Source/2014-01-21T20:49:02.542Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.1" LABEL="Source file" CREATED="2014-05-15T22:00:19.299Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2877048">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/Source/2014-05-15T22:00:19.299Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.2" LABEL="Source file" CREATED="2014-12-16T15:25:49.522Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2877048">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/Source/2014-12-16T15:25:49.522Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2014-01-21T20:49:02.679Z" ALT_IDS="/Volumes/data/phptemp/Spiranthes-vernalis-1.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="85722">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/THUMB/2014-01-21T20:49:02.679Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.1" LABEL="Thumbnail of image" CREATED="2014-05-15T22:00:19.394Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="85722">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/THUMB/2014-05-15T22:00:19.394Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.2" LABEL="Thumbnail of image" CREATED="2014-12-16T15:43:26.922Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="85722">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/THUMB/2014-12-16T15:43:26.922Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.3" LABEL="Thumbnail of image" CREATED="2014-12-17T13:22:26.641Z" ALT_IDS="Source_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="86225">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:723/THUMB/2014-12-17T13:22:26.641Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

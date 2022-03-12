@@ -1,0 +1,379 @@
+
+	{
+	"pid": "unfenvc:21",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Preserve: Photo Gallery"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-15T21:19:21.001Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-11T19:11:18.945Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-15T21:19:21.001Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "386"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"identifier": "unfenvc:21"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-15T21:23:57.339Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "830"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of photographs from the UNF Sawmill Slough Preserve. These pictures were taken as part of the many activities that occur on the preserve including educational hikes, scientific research, prescribed burns, and eco camps."
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:21"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-15T21:25:54.016Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "886"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of photographs from the UNF Sawmill Slough Preserve. These pictures were taken as part of the many activities that occur on the preserve including educational hikes, scientific research, prescribed burns, and eco camps."
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:21"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-15T21:30:02.812Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "963"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of photographs from the UNF Sawmill Slough Preserve. These pictures were taken as part of the many activities that occur on the preserve including educational hikes, scientific research, prescribed burns, and eco camps."
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:21"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T16:38:32.303Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "1065"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of photographs from the UNF Sawmill Slough Preserve. These pictures were taken as part of the many activities that occur on the preserve including educational hikes, scientific research, prescribed burns, and eco camps."
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T11:38:29-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:21"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.5"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T19:11:18.945Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "1034"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Photo Gallery"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of photographs from the UNF Sawmill Slough Preserve. These pictures were taken as part of the many activities that occur on the preserve including educational hikes, scientific research, prescribed burns, and eco camps."
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T11:38:29-05:00"
+					,
+					"type": "Collection"
+					,
+					"identifier": "unfenvc:21"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+		],
+		"kmls": [
+		
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-15T21:36:46.598Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "452"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"ispartof": "preserve"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:38:31.274Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:38:31.522Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T16:38:31.675Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:425"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T18:17:46.160Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "242"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+		],
+		"thumbs": [
+		
+		]
+	}
+	

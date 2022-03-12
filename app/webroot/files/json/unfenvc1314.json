@@ -1,0 +1,338 @@
+
+	{
+	"pid": "unfenvc:1314",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Virginia Iris; Blue Flag Iris Photo 4"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-05-06T18:38:00.072Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-05-06T18:38:02.942Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-05-06T18:38:01.213Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "668"
+						
+					},
+				"content": {
+				
+					"title": "Virginia Iris; Blue Flag Iris Photo 4"
+					,
+					"creator": "Rachel Bolles"
+					,
+					"date": "2015-05-06T14:37:57-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1314"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-05-06T18:38:01.751Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2485"
+				
+			},
+			"content": {
+			
+				"image_description": ""
+				,
+				"manufacturer": "Canon"
+				,
+				"model": "Canon PowerShot ELPH 330 HS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "180"
+				,
+				"y-resolution": "180"
+				,
+				"resolution_unit": "Inch"
+				,
+				"date_and_time": "2015:04:16 17:49:39"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"compression": "JPEG compression"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"exposure_time": "1/20 sec."
+				,
+				"f-number": "f/3.0"
+				,
+				"iso_speed_ratings": "1250"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2015:04:16 17:49:39"
+				,
+				"date_and_time__digitized_": "2015:04:16 17:49:39"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": " 3"
+				,
+				"shutter_speed": "4.31 EV (1/19 sec.)"
+				,
+				"aperture": "3.16 EV (f/3.0)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "3.16 EV (f/3.0)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "4.3 mm"
+				,
+				"maker_note": "3972 bytes undefined data"
+				,
+				"user_comment": ""
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "4000"
+				,
+				"pixel_y_dimension": "3000"
+				,
+				"focal_plane_x-resolution": "16393.443"
+				,
+				"focal_plane_y-resolution": "16393.443"
+				,
+				"focal_plane_resolution_unit": "Inch"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"file_source": "DSC"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.0000"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				,
+				"relatedimagewidth": "4000"
+				,
+				"relatedimagelength": "3000"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-05-06T18:38:02.017Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "276"
+				
+			},
+			"content": {
+			
+			"name": "Virginia Iris; Blue Flag Iris",
+			"desc": "&lt;i&gt;Iris virginica&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:38:00.344Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:38:00.551Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:38:00.693Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "329"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:096"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-05-06T18:38:02.283Z"
+				,
+				"alt_ids": "Rachel_Bolles_April_Contest.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "4282649"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1314+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-05-06T18:38:02.942Z"
+				,
+				"alt_ids": "Rachel_Bolles_April_Contest.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "103940"
+				
+			},
+			"content": {
+			"url": "unfenvc:1314+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

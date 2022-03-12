@@ -1,0 +1,318 @@
+
+	{
+	"pid": "unfenvc:1344",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Bronze blister beetle Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-07-01T13:32:57.974Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-07-01T13:32:59.165Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-07-01T13:32:58.718Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "661"
+						
+					},
+				"content": {
+				
+					"title": "Bronze blister beetle Photo 1"
+					,
+					"creator": "Michael Boyles"
+					,
+					"date": "2015-07-01T09:32:56-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1344"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-07-01T13:32:58.887Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "1956"
+				
+			},
+			"content": {
+			
+				"manufacturer": "Apple"
+				,
+				"model": "iPhone 4S"
+				,
+				"orientation": "Right-top"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "7.0.4"
+				,
+				"date_and_time": "2014:01:02 10:59:31"
+				,
+				"ycbcr_positioning": "Centered"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/60 sec."
+				,
+				"f-number": "f/2.4"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2014:01:02 10:59:31"
+				,
+				"date_and_time__digitized_": "2014:01:02 10:59:31"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"shutter_speed": "5.91 EV (1/60 sec.)"
+				,
+				"aperture": "2.53 EV (f/2.4)"
+				,
+				"brightness": "4.98 EV (107.97 cd/m^2)"
+				,
+				"metering_mode": "Spot"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "4.3 mm"
+				,
+				"maker_note": "208 bytes undefined data"
+				,
+				"sub-second_time__original_": "409"
+				,
+				"sub-second_time__digitized_": "409"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"scene_type": "Directly photographed"
+				,
+				"custom_rendered": "4"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"focal_length_in_35mm_film": "35"
+				,
+				"scene_capture_type": "Standard"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-07-01T13:32:58.956Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "266"
+				
+			},
+			"content": {
+			
+			"name": "Bronze blister beetle",
+			"desc": "&lt;i&gt;Lytta polita&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-07-01T13:32:58.377Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-07-01T13:32:58.569Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-07-01T13:32:58.628Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "330"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					,
+						"ispartof": "invert:243"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-07-01T13:32:59.029Z"
+				,
+				"alt_ids": "Michael_Boyles_1.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3164600"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1344+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-07-01T13:32:59.165Z"
+				,
+				"alt_ids": "Michael_Boyles_1.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "73798"
+				
+			},
+			"content": {
+			"url": "unfenvc:1344+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

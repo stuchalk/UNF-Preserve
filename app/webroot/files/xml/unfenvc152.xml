@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:152"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Jamaica Swamp Sawgrass Photo 3"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2013-11-04T21:21:47.980Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-01-22T21:00:01.594Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2013-11-04T21:21:47.980Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:47.980Z</audit:date>
+<audit:justification>unfenvc:152 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.093Z</audit:date>
+<audit:justification>unfenvc:152-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.297Z</audit:date>
+<audit:justification>unfenvc:152-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.357Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.426Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.511Z</audit:date>
+<audit:justification>Added source file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-04T21:21:48.595Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-07T18:34:20.408Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-07T18:34:25.911Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T18:21:08.295Z</audit:date>
+<audit:justification>unfenvc:152-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T18:21:08.517Z</audit:date>
+<audit:justification>unfenvc:152-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-16T09:20:37.924Z</audit:date>
+<audit:justification>unfenvc:152-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T13:06:32.097Z</audit:date>
+<audit:justification>unfenvc:152-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:26:30.973Z</audit:date>
+<audit:justification>unfenvc:152-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:44:08.275Z</audit:date>
+<audit:justification>unfenvc:152-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T17:11:09.936Z</audit:date>
+<audit:justification>unfenvc:152-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-17T13:27:23.634Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-01-22T21:00:01.594Z</audit:date>
+<audit:justification>unfenvc:152-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2013-11-04T21:21:47.980Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="394">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 2</dc:title>
+  <dc:identifier>unfenvc:152</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2013-11-04T21:21:48.297Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="626">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-04T16:21:48-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2014-01-07T18:34:25.911Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="626">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-04T16:21:48-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2014-05-16T09:20:37.924Z" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="625">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-04T16:21:48-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T13:06:32.097Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="625">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-04T16:21:48-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.5" LABEL="Dublin Core Record for this object" CREATED="2014-12-16T17:11:09.936Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="626">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-12-16T12:11:09-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.6" LABEL="Dublin Core Record for this object" CREATED="2015-01-22T21:00:01.594Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="626">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Jamaica Swamp Sawgrass Photo 3</dc:title>
+  <dc:creator>Jason McGregor</dc:creator>
+  <dc:date>2015-01-22T16:00:01-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:152</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2013-11-04T21:21:48.093Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="152">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:152"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2013-11-04T21:21:48.150Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="238">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:152">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2013-11-04T21:21:48.194Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="328">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:152">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:059</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2013-11-04T21:21:48.357Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="3695">
+<foxml:xmlContent>
+<exif>
+  <Image_Description></Image_Description>
+  <Manufacturer>RICOH      </Manufacturer>
+  <Model>Caplio 500SE   </Model>
+  <Orientation>Top-left</Orientation>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Software>Microsoft Windows Photo Viewer 6.1.7600.16385</Software>
+  <Date_and_Time>2012:05:22 15:15:30</Date_and_Time>
+  <YCbCr_Positioning>Co-sited</YCbCr_Positioning>
+  <Copyright>(C) Caplio 500SE User     (Photographer) - [None] (Editor)</Copyright>
+  <PRINT_Image_Matching>256 bytes undefined data</PRINT_Image_Matching>
+  <Padding>2060 bytes undefined data</Padding>
+  <Compression>JPEG compression</Compression>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Exposure_Time>1/45 sec.</Exposure_Time>
+  <F-Number>f/2.8</F-Number>
+  <Exposure_Program>Normal program</Exposure_Program>
+  <ISO_Speed_Ratings>271</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.21</Exif_Version>
+  <Date_and_Time__Original_>2012:05:22 09:51:40</Date_and_Time__Original_>
+  <Date_and_Time__Digitized_>2012:05:22 09:51:40</Date_and_Time__Digitized_>
+  <Components_Configuration>Y Cb Cr -</Components_Configuration>
+  <Compressed_Bits_per_Pixel>2.80</Compressed_Bits_per_Pixel>
+  <Aperture>3.00 EV (f/2.8)</Aperture>
+  <Brightness>0.40 EV (4.52 cd/m^2)</Brightness>
+  <Exposure_Bias>0.00 EV</Exposure_Bias>
+  <Maximum_Aperture_Value>2.50 EV (f/2.4)</Maximum_Aperture_Value>
+  <Metering_Mode>Pattern</Metering_Mode>
+  <Light_Source>Unknown</Light_Source>
+  <Flash>Flash did not fire, compulsory flash mode</Flash>
+  <Focal_Length>7.9 mm</Focal_Length>
+  <Maker_Note>18398 bytes undefined data</Maker_Note>
+  <User_Comment></User_Comment>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <Pixel_X_Dimension>2448</Pixel_X_Dimension>
+  <Pixel_Y_Dimension>3264</Pixel_Y_Dimension>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+  <Sharpness>Normal</Sharpness>
+  <Padding>2060 bytes undefined data</Padding>
+  <GPS_Tag_Version>2.2.0.0</GPS_Tag_Version>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 16, 32.79</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 31, 8.55</Longitude>
+  <Altitude_Reference>Sea level</Altitude_Reference>
+  <Altitude>16</Altitude>
+  <GPS_Time__Atomic_Clock_>13:47:47.00</GPS_Time__Atomic_Clock_>
+  <GPS_Satellites>22,12,21,18,09,,,,,,,                          </GPS_Satellites>
+  <GPS_Receiver_Status>A</GPS_Receiver_Status>
+  <GPS_Measurement_Mode>3</GPS_Measurement_Mode>
+  <Measurement_Precision>3.40</Measurement_Precision>
+  <Speed_Unit>N</Speed_Unit>
+  <Speed_of_GPS_Receiver> 2</Speed_of_GPS_Receiver>
+  <Reference_for_direction_of_movement>T</Reference_for_direction_of_movement>
+  <Direction_of_Movement>241</Direction_of_Movement>
+  <GPS_Image_Direction_Reference>T</GPS_Image_Direction_Reference>
+  <GPS_Image_Direction> 0</GPS_Image_Direction>
+  <Geodetic_Survey_Data_Used>WGS-84                         </Geodetic_Survey_Data_Used>
+  <Reference_for_Bearing_of_Destination>T</Reference_for_Bearing_of_Destination>
+  <Bearing_of_Destination>0/0</Bearing_of_Destination>
+  <Reference_for_Distance_to_Destination>K</Reference_for_Distance_to_Destination>
+  <Distance_to_Destination>0/0</Distance_to_Destination>
+  <GPS_Date>2012:05:22</GPS_Date>
+  <GPS_Differential_Correction>0</GPS_Differential_Correction>
+  <Interoperability_Index>R98</Interoperability_Index>
+  <Interoperability_Version>0100</Interoperability_Version>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2013-11-04T21:21:48.426Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml/" SIZE="279">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Jamaica Swamp Sawgrass</name>
+    <description>&lt;i&gt;Cladium jamaicense&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.519041666667,30.275775,16</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2013-11-04T21:21:48.511Z" ALT_IDS="Cladium-jamaicensis-2.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2947700">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/Source/2013-11-04T21:21:48.511Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.1" LABEL="Source file" CREATED="2014-05-15T18:21:08.295Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2947700">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/Source/2014-05-15T18:21:08.295Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.2" LABEL="Source file" CREATED="2014-12-16T15:26:30.973Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="2947700">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/Source/2014-12-16T15:26:30.973Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2013-11-04T21:21:48.595Z" ALT_IDS="/Volumes/data/phptemp/Cladium-jamaicensis-2.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="140138">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/THUMB/2013-11-04T21:21:48.595Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.1" LABEL="Thumbnail of image" CREATED="2014-05-15T18:21:08.517Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="140138">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/THUMB/2014-05-15T18:21:08.517Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.2" LABEL="Thumbnail of image" CREATED="2014-12-16T15:44:08.275Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="140138">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/THUMB/2014-12-16T15:44:08.275Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.3" LABEL="Thumbnail of image" CREATED="2014-12-17T13:27:23.634Z" ALT_IDS="Source_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="156583">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:152/THUMB/2014-12-17T13:27:23.634Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

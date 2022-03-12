@@ -1,0 +1,44 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.panel-ul {
+    padding-left: 10px;
+    margin-bottom: 5px;
+}
+
+.panel-heading {
+    padding: 5px 15px;
+}
+
+.panel-body {
+    padding: 5px 15px;
+}
+
+.responsivediv200 {
+	max-height: calc(100vh - 200px);
+	overflow-y: scroll;
+}
+
+.responsivediv300 {
+	max-height: calc(100vh - 300px);
+	overflow-y: scroll;
+}
+
+.responsivediv400 {
+	max-height: calc(100vh - 400px);
+	overflow-y: scroll;
+}
+
+.responsivediv {
+    max-height: calc(100vh - 387px);
+    overflow-y: scroll;
+}
+
+.responsivediv2 {
+    max-height: calc(100vh - 330px);
+    overflow-y: scroll;
+}
+
+.list-group-item {
+    padding: 5px 10px;
+}

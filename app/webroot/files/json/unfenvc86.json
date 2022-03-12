@@ -1,0 +1,589 @@
+
+	{
+	"pid": "unfenvc:86",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "American Waterfern; Pacific Mosquitofern Photo 3"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-30T15:59:18.589Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2014-12-17T11:41:54.722Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:59:18.589Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "411"
+						
+					},
+				"content": {
+				
+					"title": "American Waterfern; Pacific Mosquitofern Photo 3"
+					,
+					"identifier": "unfenvc:86"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-30T15:59:18.841Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "643"
+						
+					},
+				"content": {
+				
+					"title": "American Waterfern; Pacific Mosquitofern Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:59:18-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:86"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-16T09:20:27.264Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.w3.org/TR/xml/"
+						,
+						"size": "642"
+						
+					},
+				"content": {
+				
+					"title": "American Waterfern; Pacific Mosquitofern Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:59:18-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:86"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-05-18T13:06:19.612Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "642"
+						
+					},
+				"content": {
+				
+					"title": "American Waterfern; Pacific Mosquitofern Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2013-10-30T11:59:18-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpg"
+					,
+					"identifier": "unfenvc:86"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2014-12-16T17:10:04.984Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "643"
+						
+					},
+				"content": {
+				
+					"title": "American Waterfern; Pacific Mosquitofern Photo 3"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2014-12-16T12:10:04-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:86"
+					,
+					"rights": "Copyright © 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2013-10-30T15:59:18.923Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2762"
+				
+			},
+			"content": {
+			
+				"manufacturer": "PENTAX RICOH IMAGING   "
+				,
+				"model": "PENTAX WG-3 GPS"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "PENTAX WG-3 GPS Ver. 1.00"
+				,
+				"date_and_time": "2013:07:26 11:13:16"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"print_image_matching": "350 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/45 sec."
+				,
+				"f-number": "f/3.1"
+				,
+				"iso_speed_ratings": "200"
+				,
+				"exif_version": "Exif Version 2.3"
+				,
+				"date_and_time__original_": "2013:07:26 11:13:16"
+				,
+				"date_and_time__digitized_": "2013:07:26 11:13:16"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Pattern"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "5.5 mm"
+				,
+				"maker_note": "50728 bytes undefined data"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "1920"
+				,
+				"pixel_y_dimension": "1080"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.00"
+				,
+				"focal_length_in_35mm_film": "31"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Macro"
+				,
+				"gps_tag_version": "2.3.0.0"
+				,
+				"north_or_south_latitude": "N"
+				,
+				"latitude": "30, 15, 34.704"
+				,
+				"east_or_west_longitude": "W"
+				,
+				"longitude": "81, 30, 17.4"
+				,
+				"altitude_reference": "Sea level"
+				,
+				"altitude": "47.30"
+				,
+				"gps_time__atomic_clock_": "15:11:21.59"
+				,
+				"gps_satellites": "00"
+				,
+				"gps_receiver_status": "V"
+				,
+				"gps_measurement_mode": "3"
+				,
+				"gps_image_direction_reference": "T"
+				,
+				"gps_image_direction": "237.99"
+				,
+				"geodetic_survey_data_used": "WGS-84                         "
+				,
+				"gps_date": "2013:07:26"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2013-10-30T15:59:18.992Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"format_uri": "http://www.opengeospatial.org/standards/kml/"
+				,
+				"size": "300"
+				
+			},
+			"content": {
+			
+			"name": "American Waterfern; Pacific Mosquitofern",
+			"desc": "&lt;i&gt;Azolla filiculoides&lt;/i&gt;",
+			"coordinates": "-81.504833333333,30.25964,47.30"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:59:18.666Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:59:18.708Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-30T15:59:18.739Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:008"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2013-10-30T15:59:19.060Z"
+				,
+				"alt_ids": "IMGP0388.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "1021108"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/Source/2013-10-30T15:59:19.060Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.1"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-05-15T18:20:28.853Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "1021108"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/Source/2014-05-15T18:20:28.853Z"
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "Source.2"
+				,
+				"label": "Source file"
+				,
+				"created": "2014-12-16T15:24:21.913Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "1021108"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/Source/2014-12-16T15:24:21.913Z"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2013-10-30T15:59:19.137Z"
+				,
+				"alt_ids": "/Volumes/data/phptemp/IMGP0388.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "115989"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/THUMB/2013-10-30T15:59:19.137Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.1"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-05-15T18:20:28.601Z"
+				,
+				"mimetype": "image/jpg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "115989"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/THUMB/2014-05-15T18:20:28.601Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.2"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-16T15:42:44.743Z"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "115989"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/THUMB/2014-12-16T15:42:44.743Z"
+			}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "THUMB.3"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2014-12-17T11:41:54.722Z"
+				,
+				"alt_ids": "Source_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "106956"
+				
+			},
+			"content": {
+			"url": "http://ecenter.unf.edu:8080/fedora/get/unfenvc:86/THUMB/2014-12-17T11:41:54.722Z"
+			}
+			}
+			
+		]
+	}
+	

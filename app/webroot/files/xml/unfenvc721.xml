@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:721"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Star rush Photo 2"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2014-01-21T20:48:05.510Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-17T13:22:31.801Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2014-01-21T20:48:05.510Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:05.510Z</audit:date>
+<audit:justification>unfenvc:721 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:05.641Z</audit:date>
+<audit:justification>unfenvc:721-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:05.960Z</audit:date>
+<audit:justification>unfenvc:721-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:06.078Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:06.218Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:06.355Z</audit:date>
+<audit:justification>Added source file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-01-21T20:48:06.469Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T22:00:18.449Z</audit:date>
+<audit:justification>unfenvc:721-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T22:00:18.858Z</audit:date>
+<audit:justification>unfenvc:721-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-16T09:22:50.938Z</audit:date>
+<audit:justification>unfenvc:721-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T13:08:22.150Z</audit:date>
+<audit:justification>unfenvc:721-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:25:36.146Z</audit:date>
+<audit:justification>unfenvc:721-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:43:50.990Z</audit:date>
+<audit:justification>unfenvc:721-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T17:10:26.777Z</audit:date>
+<audit:justification>unfenvc:721-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-17T13:22:31.801Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2014-01-21T20:48:05.510Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="381">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Star rush Photo 2</dc:title>
+  <dc:identifier>unfenvc:721</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2014-01-21T20:48:05.960Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="613">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Star rush Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:48:05-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:721</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2014-05-16T09:22:50.938Z" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="612">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Star rush Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:48:05-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:721</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T13:08:22.150Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="612">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Star rush Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-01-21T15:48:05-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:721</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2014-12-16T17:10:26.777Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="613">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Star rush Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-12-16T12:10:26-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:721</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2014-01-21T20:48:05.641Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="152">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:721"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2014-01-21T20:48:05.758Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="238">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:721">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2014-01-21T20:48:05.835Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="328">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:721">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:536</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2014-01-21T20:48:06.078Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="312">
+<foxml:xmlContent>
+<exif>
+  <Image_Description>No EXIF in file so this is default set.</Image_Description>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 15, 57.5634</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 42.5844</Longitude>
+  <Altitude>0.0</Altitude>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2014-01-21T20:48:06.218Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml/" SIZE="270">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Star rush</name>
+    <description>&lt;i&gt;Rhynchospora colorata&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.265989833333,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2014-01-21T20:48:06.355Z" ALT_IDS="IMGP0196.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3667865">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/Source/2014-01-21T20:48:06.355Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.1" LABEL="Source file" CREATED="2014-05-15T22:00:18.449Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3667865">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/Source/2014-05-15T22:00:18.449Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.2" LABEL="Source file" CREATED="2014-12-16T15:25:36.146Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3667865">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/Source/2014-12-16T15:25:36.146Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2014-01-21T20:48:06.469Z" ALT_IDS="/Volumes/data/phptemp/IMGP0196.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="100144">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/THUMB/2014-01-21T20:48:06.469Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.1" LABEL="Thumbnail of image" CREATED="2014-05-15T22:00:18.858Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="100144">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/THUMB/2014-05-15T22:00:18.858Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.2" LABEL="Thumbnail of image" CREATED="2014-12-16T15:43:50.990Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="100144">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/THUMB/2014-12-16T15:43:50.990Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.3" LABEL="Thumbnail of image" CREATED="2014-12-17T13:22:31.801Z" ALT_IDS="Source_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="101143">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:721/THUMB/2014-12-17T13:22:31.801Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

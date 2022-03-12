@@ -1,0 +1,322 @@
+
+	{
+	"pid": "unfenvc:1360",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Speckled madtom Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2016-01-13T00:13:37.132Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2016-01-13T00:13:38.127Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2016-01-13T00:13:37.795Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "655"
+						
+					},
+				"content": {
+				
+					"title": "Speckled madtom Photo 1"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"date": "2016-01-12T19:13:35-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1360"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2016 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2016-01-13T00:13:37.927Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2106"
+				
+			},
+			"content": {
+			
+				"manufacturer": "Apple"
+				,
+				"model": "iPhone 5s"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "8.4.1"
+				,
+				"date_and_time": "2015:11:06 15:02:54"
+				,
+				"ycbcr_positioning": "Centered"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/554 sec."
+				,
+				"f-number": "f/2.2"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "32"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2015:11:06 15:02:54"
+				,
+				"date_and_time__digitized_": "2015:11:06 15:02:54"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"shutter_speed": "9.11 EV (1/554 sec.)"
+				,
+				"aperture": "2.28 EV (f/2.2)"
+				,
+				"brightness": "8.12 EV (954.55 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Spot"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "4.2 mm"
+				,
+				"subject_area": "Within rectangle (width 608, height 611) around (x,y) = (1905,1716)"
+				,
+				"maker_note": "814 bytes undefined data"
+				,
+				"sub-second_time__original_": "278"
+				,
+				"sub-second_time__digitized_": "278"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "3264"
+				,
+				"pixel_y_dimension": "2448"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"scene_type": "Directly photographed"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": "1.48"
+				,
+				"focal_length_in_35mm_film": "43"
+				,
+				"scene_capture_type": "Standard"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2016-01-13T00:13:37.988Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "268"
+				
+			},
+			"content": {
+			
+			"name": "Speckled madtom",
+			"desc": "&lt;i&gt;Noturus leptacanthus&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2016-01-13T00:13:37.487Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2016-01-13T00:13:37.664Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:28"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2016-01-13T00:13:37.718Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "328"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:28"
+					,
+						"ispartof": "fish:018"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2016-01-13T00:13:38.051Z"
+				,
+				"alt_ids": "IMG_1396.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "2005804"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1360+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2016-01-13T00:13:38.127Z"
+				,
+				"alt_ids": "IMG_1396.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "71874"
+				
+			},
+			"content": {
+			"url": "unfenvc:1360+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

@@ -1,0 +1,354 @@
+
+	{
+	"pid": "unfenvc:23",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Preserve: Historical Photos"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2013-10-31T20:34:25.390Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-11T19:10:08.852Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T20:34:25.390Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "390"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Historical Photos"
+					,
+					"identifier": "unfenvc:23"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T20:35:12.981Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "855"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Historical Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of the best photographs of plants on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:23"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.2"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2013-10-31T21:09:53.534Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "861"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Historical Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of historical photographs of the area known as the Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2013-10-15T21:10:36.763Z"
+					,
+					"identifier": "unfenvc:23"
+					,
+					"rights": "Copyright 2013 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.3"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T17:07:59.703Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "963"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Historical Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of historical photographs of the area known as the Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:07:55-05:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:23"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.4"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-11T19:10:08.852Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "932"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Historical Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This collection of historical photographs of the area known as the Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T12:07:55-05:00"
+					,
+					"type": "Collection"
+					,
+					"identifier": "unfenvc:23"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+		],
+		"kmls": [
+		
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2013-10-31T20:36:17.011Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "452"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"ispartof": "preserve"
+					,
+						"iscollectionof": "info:fedora/unfenvc:1"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:57.508Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "151"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:57.745Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "237"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.3"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T17:07:58.999Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "327"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:544"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.4"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-11T19:09:21.718Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "242"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+		],
+		"thumbs": [
+		
+		]
+	}
+	

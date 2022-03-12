@@ -1,0 +1,1162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:20"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Preserve: Plant Photos"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2013-10-15T21:10:36.763Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-02-22T17:36:36.534Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2013-10-15T21:10:36.763Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:10:50.883Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:12:08.533Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:17:40.019Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:24:18.462Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:26:08.484Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-15T21:29:46.794Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T14:54:10.363Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T14:59:20.985Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T15:00:38.932Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T15:35:42.569Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T15:36:30.944Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T15:46:00.451Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T15:57:29.245Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T17:21:21.046Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-22T17:29:23.124Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:21:34.472Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:43:40.067Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:43:40.381Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:50:39.218Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:50:39.498Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:51:10.685Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T19:51:10.992Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:02:32.446Z</audit:date>
+<audit:justification>Updating stream KML to PID </audit:justification>
+</audit:record>
+<audit:record ID="AUDREC24">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:02.726Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC25">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:04.280Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC26">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:05.581Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC27">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:07.350Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC28">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:07.726Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC29">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:07.938Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC30">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:08.297Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC31">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:08.569Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC32">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:09.033Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC33">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:09.299Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC34">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:10.197Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC35">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:11.100Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC36">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:11.640Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC37">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:11.830Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC38">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:12.293Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC39">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:12.676Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC40">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:13.220Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC41">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:14.083Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC42">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:14.504Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC43">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:15.066Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC44">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:15.247Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC45">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:15.996Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC46">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:16.129Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC47">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:17.310Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC48">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:18.026Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC49">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:18.511Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC50">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:18.754Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC51">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:19.094Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC52">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:19.234Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC53">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:19.882Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC54">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:20.296Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC55">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:20.695Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC56">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:20.937Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC57">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:21.244Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC58">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:22.473Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC59">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:22.783Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC60">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:23.149Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC61">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:23.283Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC62">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:23.651Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC63">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:23.796Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC64">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:24.101Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC65">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:24.377Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC66">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:24.564Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC67">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:24.892Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC68">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:25.764Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC69">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:26.215Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC70">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:28.094Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC71">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:28.427Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC72">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:28.769Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC73">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:29.177Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC74">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:30.559Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC75">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:32.116Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC76">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:32.401Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC77">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:32.681Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC78">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:32.864Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC79">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:34.242Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC80">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:36.049Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC81">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:36.324Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC82">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:36.733Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC83">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:38.126Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC84">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:38.890Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC85">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:39.033Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC86">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:39.285Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC87">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:04:39.946Z</audit:date>
+<audit:justification>unfenvc:20-&gt;KML : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC88">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-29T20:08:40.398Z</audit:date>
+<audit:justification>Updating stream KML to PID </audit:justification>
+</audit:record>
+<audit:record ID="AUDREC89">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-06-08T10:06:10.346Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC90">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:25.789Z</audit:date>
+<audit:justification>unfenvc:20-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC91">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:27.439Z</audit:date>
+<audit:justification>unfenvc:20-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC92">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:27.775Z</audit:date>
+<audit:justification>Added source file IMGP4022.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC93">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:28.455Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC94">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:28.810Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC95">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:38:29.164Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC96">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:15.996Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC97">
+<audit:process type="Fedora API-M"/>
+<audit:action>setDatastreamState</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:15.996Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC98">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:19.837Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC99">
+<audit:process type="Fedora API-M"/>
+<audit:action>setDatastreamState</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:19.837Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC100">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:25.673Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC101">
+<audit:process type="Fedora API-M"/>
+<audit:action>setDatastreamState</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:25.673Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC102">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T16:41:30.359Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC103">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:16:45.259Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC104">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T19:11:46.591Z</audit:date>
+<audit:justification>Purged datastream (ID=THUMB), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 1 datastream version(s) (2015-02-11T11:38:29.164Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC105">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T19:11:50.111Z</audit:date>
+<audit:justification>Purged datastream (ID=EXIF), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 1 datastream version(s) (2015-02-11T11:38:28.455Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC106">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T19:11:53.360Z</audit:date>
+<audit:justification>Purged datastream (ID=Source), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 1 datastream version(s) (2015-02-11T11:38:27.775Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC107">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T19:11:56.029Z</audit:date>
+<audit:justification>Purged datastream (ID=KML), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 87 datastream version(s) (2014-05-22T10:54:10.363Z, 2014-05-22T10:59:20.985Z, 2014-05-22T11:00:38.932Z, 2014-05-22T11:35:42.569Z, 2014-05-22T11:36:30.944Z, 2014-05-22T11:46:00.451Z, 2014-05-22T11:57:29.245Z, 2014-05-22T13:21:21.046Z, 2014-05-22T13:29:23.124Z, 2014-05-29T15:21:34.472Z, 2014-05-29T15:43:40.067Z, 2014-05-29T15:43:40.381Z, 2014-05-29T15:50:39.218Z, 2014-05-29T15:50:39.498Z, 2014-05-29T15:51:10.685Z, 2014-05-29T15:51:10.992Z, 2014-05-29T16:02:32.446Z, 2014-05-29T16:04:02.726Z, 2014-05-29T16:04:04.280Z, 2014-05-29T16:04:05.581Z, 2014-05-29T16:04:07.350Z, 2014-05-29T16:04:07.726Z, 2014-05-29T16:04:07.938Z, 2014-05-29T16:04:08.297Z, 2014-05-29T16:04:08.569Z, 2014-05-29T16:04:09.033Z, 2014-05-29T16:04:09.299Z, 2014-05-29T16:04:10.197Z, 2014-05-29T16:04:11.100Z, 2014-05-29T16:04:11.640Z, 2014-05-29T16:04:11.830Z, 2014-05-29T16:04:12.293Z, 2014-05-29T16:04:12.676Z, 2014-05-29T16:04:13.220Z, 2014-05-29T16:04:14.083Z, 2014-05-29T16:04:14.504Z, 2014-05-29T16:04:15.066Z, 2014-05-29T16:04:15.247Z, 2014-05-29T16:04:15.996Z, 2014-05-29T16:04:16.129Z, 2014-05-29T16:04:17.310Z, 2014-05-29T16:04:18.026Z, 2014-05-29T16:04:18.511Z, 2014-05-29T16:04:18.754Z, 2014-05-29T16:04:19.094Z, 2014-05-29T16:04:19.234Z, 2014-05-29T16:04:19.882Z, 2014-05-29T16:04:20.296Z, 2014-05-29T16:04:20.695Z, 2014-05-29T16:04:20.937Z, 2014-05-29T16:04:21.244Z, 2014-05-29T16:04:22.473Z, 2014-05-29T16:04:22.783Z, 2014-05-29T16:04:23.149Z, 2014-05-29T16:04:23.283Z, 2014-05-29T16:04:23.651Z, 2014-05-29T16:04:23.796Z, 2014-05-29T16:04:24.101Z, 2014-05-29T16:04:24.377Z, 2014-05-29T16:04:24.564Z, 2014-05-29T16:04:24.892Z, 2014-05-29T16:04:25.764Z, 2014-05-29T16:04:26.215Z, 2014-05-29T16:04:28.094Z, 2014-05-29T16:04:28.427Z, 2014-05-29T16:04:28.769Z, 2014-05-29T16:04:29.177Z, 2014-05-29T16:04:30.559Z, 2014-05-29T16:04:32.116Z, 2014-05-29T16:04:32.401Z, 2014-05-29T16:04:32.681Z, 2014-05-29T16:04:32.864Z, 2014-05-29T16:04:34.242Z, 2014-05-29T16:04:36.049Z, 2014-05-29T16:04:36.324Z, 2014-05-29T16:04:36.733Z, 2014-05-29T16:04:38.126Z, 2014-05-29T16:04:38.890Z, 2014-05-29T16:04:39.033Z, 2014-05-29T16:04:39.285Z, 2014-05-29T16:04:39.946Z, 2014-05-29T16:08:40.398Z, 2015-02-11T11:38:28.810Z, 2015-02-11T11:41:15.996Z, 2015-02-11T11:41:19.837Z, 2015-02-11T11:41:25.673Z, 2015-02-11T11:41:30.359Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC108">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T19:12:12.174Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC109">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T16:34:18.939Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC110">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T16:49:54.750Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC111">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T17:19:32.288Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC112">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T17:28:18.545Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC113">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T17:30:25.985Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC114">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T17:36:36.534Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2013-10-15T21:10:36.763Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="385">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:identifier>unfenvc:20</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2013-10-15T21:17:40.019Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="717">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:creator>Ashley Sever</dc:creator>
+  <dc:creator>Adam Bauernfeind</dc:creator>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>This collection of the best photographs of plants on the UNF Sawmill Slough Preserve</dc:description>
+  <dc:date>2013-10-15T21:10:36.763Z</dc:date>
+  <dc:identifier>unfenvc:20</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2013-10-15T21:26:08.484Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="773">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:creator>Ashley Sever</dc:creator>
+  <dc:creator>Adam Bauernfeind</dc:creator>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>This collection of the best photographs of plants on the UNF Sawmill Slough Preserve</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2013-10-15T21:10:36.763Z</dc:date>
+  <dc:identifier>unfenvc:20</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2013-10-15T21:29:46.794Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="850">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:creator>Ashley Sever</dc:creator>
+  <dc:creator>Adam Bauernfeind</dc:creator>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>This collection of the best photographs of plants on the UNF Sawmill Slough Preserve</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2013-10-15T21:10:36.763Z</dc:date>
+  <dc:identifier>unfenvc:20</dc:identifier>
+  <dc:rights>Copyright 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T16:38:27.439Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="952">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:creator>Ashley Sever</dc:creator>
+  <dc:creator>Adam Bauernfeind</dc:creator>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>This collection of the best photographs of plants on the UNF Sawmill Slough Preserve</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2015-02-11T11:38:23-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:20</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.5" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T19:12:12.174Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="921">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Preserve: Plant Photos</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:creator>Ashley Sever</dc:creator>
+  <dc:creator>Adam Bauernfeind</dc:creator>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>This collection of the best photographs of plants on the UNF Sawmill Slough Preserve</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2015-02-11T11:38:23-05:00</dc:date>
+  <dc:type>Collection</dc:type>
+  <dc:identifier>unfenvc:20</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2013-10-15T21:12:08.533Z" MIMETYPE="application/rdf+xml" SIZE="452">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <rel:isCollection>true</rel:isCollection>
+    <rel:isPartOf>preserve</rel:isPartOf>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:1"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2013-10-15T21:24:18.462Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="452">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <rel:isCollection>true</rel:isCollection>
+    <rel:isPartOf>preserve</rel:isPartOf>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:1"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2014-06-08T10:06:10.346Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="484">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <isPartOf xmlns="info:jaffedora/">preserve</isPartOf>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:1"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.3" LABEL="Relationships" CREATED="2015-02-11T16:38:25.789Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="151">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.4" LABEL="Relationships" CREATED="2015-02-11T16:38:26.093Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="237">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:20">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.5" LABEL="Relationships" CREATED="2015-02-11T16:38:26.357Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="327">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:20">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:425</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.6" LABEL="Relationships" CREATED="2015-02-11T18:16:45.259Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="242">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.7" LABEL="Relationships" CREATED="2015-02-22T16:34:18.939Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="304">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.8" LABEL="Relationships" CREATED="2015-02-22T16:49:54.750Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="304">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:30"></isItemOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.9" LABEL="Relationships" CREATED="2015-02-22T17:19:32.288Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="367">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <isType xmlns="info:jaffedora/">plant</isType>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:30"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.10" LABEL="Relationships" CREATED="2015-02-22T17:28:18.545Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="374">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <hasMetadata xmlns="info:fedora/">plant</hasMetadata>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:30"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.11" LABEL="Relationships" CREATED="2015-02-22T17:30:25.985Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="316">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:30"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.12" LABEL="Relationships" CREATED="2015-02-22T17:36:36.534Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="374">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:20">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+    <hasMetadata xmlns="info:fedora/">plant</hasMetadata>
+    <isCollectionOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:30"></isCollectionOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

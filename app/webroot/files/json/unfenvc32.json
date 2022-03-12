@@ -1,0 +1,187 @@
+
+	{
+	"pid": "unfenvc:32",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Preserve: Mammal Photos"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-02-22T17:00:49.700Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-02-23T09:40:28.262Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.0"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-22T17:00:49.700Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "386"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Mammal Photos"
+					,
+					"identifier": "unfenvc:32"
+					
+					}
+				}
+				,
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-02-22T17:01:34.635Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "972"
+						
+					},
+				"content": {
+				
+					"title": "Preserve: Mammal Photos"
+					,
+					"creator": "Justin Lemmons"
+					,
+					"creator": "Ashley Sever"
+					,
+					"creator": "Adam Bauernfeind"
+					,
+					"creator": "Stuart Chalk"
+					,
+					"description": "This is a collection of the best photographs of mammals on the UNF Sawmill Slough Preserve"
+					,
+					"publisher": "UNF Environmental Center"
+					,
+					"date": "2015-02-11T11:38:23-05:00"
+					,
+					"type": "Collection"
+					,
+					"identifier": "unfenvc:32"
+					,
+					"identifier": "unfenvc:31"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2014 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+		],
+		"kmls": [
+		
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T17:02:16.353Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "304"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-22T17:42:15.397Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "363"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "mammal"
+					,
+						"isitemof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-02-23T09:40:28.262Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "375"
+				
+				},
+			"content": {
+			
+						"iscollection": "true"
+					,
+						"hasmetadata": "mammal"
+					,
+						"iscollectionof": "info:fedora/unfenvc:30"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+		],
+		"thumbs": [
+		
+		]
+	}
+	

@@ -1,0 +1,783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:1"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2010-05-24T22:23:28.424Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-03-01T12:54:48.236Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2010-05-24T22:23:28.424Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>QUERY</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-24T22:24:35.024Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-24T23:31:50.040Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T08:57:57.237Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T08:58:35.936Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T09:01:07.633Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T09:24:37.573Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>QUERY</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T09:46:34.654Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>setDatastreamVersionable</audit:action>
+<audit:componentID>QUERY</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-25T09:46:34.654Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-26T16:59:43.687Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-27T12:21:05.318Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-27T21:02:53.556Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-27T21:03:01.521Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-28T10:02:50.878Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-28T13:30:12.877Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2010-05-28T13:31:10.698Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC16">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-04-26T13:37:59.938Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC17">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyObject</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-10-02T15:54:02.580Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC18">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T13:06:04.084Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC19">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T15:01:04.166Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC20">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T15:42:27.040Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC21">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T15:45:01.045Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC22">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T15:46:40.049Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC23">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T15:53:52.142Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC24">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T16:10:21.833Z</audit:date>
+<audit:justification>unfenvc:1-&gt;RELS-EXT : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC25">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T16:22:55.509Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC26">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:31.758Z</audit:date>
+<audit:justification>unfenvc:1-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC27">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:33.164Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC28">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:33.482Z</audit:date>
+<audit:justification>Added source file phaon crescent3.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC29">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:33.943Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC30">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:34.668Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC31">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-06T15:32:34.999Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC32">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:45.312Z</audit:date>
+<audit:justification>unfenvc:1-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC33">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:46.468Z</audit:date>
+<audit:justification>unfenvc:1-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC34">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:46.952Z</audit:date>
+<audit:justification>Added source file IMGP0274.jpg</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC35">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:47.328Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC36">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:47.934Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC37">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:24:48.295Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC38">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:29:09.157Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC39">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:29:18.484Z</audit:date>
+<audit:justification>Purged datastream (ID=Source), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 2 datastream version(s) (2015-02-06T10:32:33.482Z, 2015-02-11T13:24:46.952Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC40">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:29:22.992Z</audit:date>
+<audit:justification>Purged datastream (ID=EXIF), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 2 datastream version(s) (2015-02-06T10:32:33.943Z, 2015-02-11T13:24:47.328Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC41">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:29:26.412Z</audit:date>
+<audit:justification>Purged datastream (ID=THUMB), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 2 datastream version(s) (2015-02-06T10:32:34.999Z, 2015-02-11T13:24:48.295Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC42">
+<audit:process type="Fedora API-M"/>
+<audit:action>purgeDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-11T18:29:29.475Z</audit:date>
+<audit:justification>Purged datastream (ID=KML), versions ranging from the beginning of time to the end of time.  This resulted in the permanent removal of 2 datastream version(s) (2015-02-06T10:32:34.668Z, 2015-02-11T13:24:47.934Z) and all associated audit records.</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC43">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-02-22T16:45:28.658Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC44">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-03-01T12:54:25.271Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC45">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>QUERY</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-03-01T12:54:37.969Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+<audit:record ID="AUDREC46">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-03-01T12:54:48.236Z</audit:date>
+<audit:justification></audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.6" LABEL="Dublin Core Record for this object" CREATED="2010-05-28T13:31:10.698Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.5" LABEL="Dublin Core Record for this object" CREATED="2010-05-28T13:30:12.877Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="982">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2010-05-28T10:02:50.878Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="986">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  s<dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Art and Sciences; Business; Computing, Engineering and Construction; Health, and Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2010-05-27T21:03:01.521Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="588">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  s<dc:title>UNF Environmental Center</dc:title>
+  <dc:description>Collections developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2010-05-26T16:59:43.687Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="600">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  s<dc:title>UNF Environmental Center Collections</dc:title>
+  <dc:description>Collections developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2010-05-24T23:31:50.040Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="598">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center Collection</dc:title>
+  <dc:description>Collections developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2010-05-24T22:23:28.658Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="510">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center Collection</dc:title>
+  <dc:description>Collections developed, constructed, or funded by the UNF Environmental Center</dc:description>
+  <dc:identifier>unfenvc:1</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.7" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T13:06:04.084Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.8" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T15:01:04.166Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.9" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T15:42:27.040Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.10" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T15:45:01.045Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.11" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T15:46:40.049Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.12" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T15:53:52.142Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="983">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:owner>UNF Environmental Center</dc:owner>
+  <dc:creator>Stuart Chalk</dc:creator>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.13" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T16:22:55.509Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="991">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:creator>Stuart Chalk</dc:creator>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:identifier>unfenvc:1</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.14" LABEL="Dublin Core Record for this object" CREATED="2015-02-06T15:32:33.164Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="1219">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2015-02-06T10:32:30-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/pjpeg</dc:format>
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.15" LABEL="Dublin Core Record for this object" CREATED="2015-02-11T18:24:46.468Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="1218">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2015-02-11T13:24:43-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.16" LABEL="Dublin Core Record for this object" CREATED="2015-03-01T12:54:25.271Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="1218">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>UNF Environmental Center</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:description>The Environmental Center at the University of North Florida was founded in 2004. Its mission is to develop and foster multidisciplinary education and research related to the environment. The center is governed by an Executive Board representing all five UNF colleges: Arts and Sciences; Business; Computing, Engineering and Construction; Health, Education and Human Services. Collections in this group were developed, constructed, or funded by the UNF Environmental Center.</dc:description>
+  <dc:publisher>UNF Environmental Center</dc:publisher>
+  <dc:date>2015-02-11T13:24:43-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:1</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2014 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="QUERY" STATE="A" CONTROL_GROUP="M" VERSIONABLE="false">
+<foxml:datastreamVersion ID="QUERY.0" LABEL="iTQL Collection Member Search" CREATED="2010-05-24T22:24:35.024Z" MIMETYPE="text/plain" FORMAT_URI="http://docs.mulgara.org/itqlcommands/index.html" SIZE="-1">
+<foxml:contentDigest TYPE="MD5" DIGEST="5dc8892da1468facf97b6b1193ee5ef1"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:1/QUERY/2010-05-24T22:24:35.024Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="QUERY.2" LABEL="iTQL Collection Member Search" CREATED="2015-03-01T12:54:37.969Z" MIMETYPE="text/plain" FORMAT_URI="http://docs.mulgara.org/itqlcommands/index.html" SIZE="287">
+<foxml:contentDigest TYPE="MD5" DIGEST="b8f0bb3ba1c79d3f4eebde9ae526b129"/>
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:1/QUERY/2015-03-01T12:54:37.969Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.5" LABEL="Relationships to other objects" CREATED="2010-05-27T12:21:05.318Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="485">
+<foxml:contentDigest TYPE="MD5" DIGEST="4f8186e0445602875b9ccb85e5b7e45a"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf rdf:resource="info:fedora/unf:1"></rel:isMemberOf>
+    <rel:isMetaCollection>true</rel:isMetaCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.4" LABEL="Relationships to other objects" CREATED="2010-05-25T09:24:37.573Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="477">
+<foxml:contentDigest TYPE="MD5" DIGEST="abbe7d8049bb21dfac7eade3b2c43654"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf rdf:resource="info:fedora/unf:1"></rel:isMemberOf>
+    <rel:isCollection>true</rel:isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.3" LABEL="Relationships to other objects" CREATED="2010-05-25T09:01:07.633Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="449">
+<foxml:contentDigest TYPE="MD5" DIGEST="5f6257eccba99d452e925e8830acb198"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf>unf:1</rel:isMemberOf>
+    <rel:isCollection>true</rel:isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships to other objects" CREATED="2010-05-25T08:58:35.936Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="449">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf>unf:1</rel:isMemberOf>
+    <rel:isCollection>true</rel:isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships to other objects" CREATED="2010-05-25T08:57:57.237Z" MIMETYPE="application/rdf+xml" SIZE="449">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf>unf:1</rel:isMemberOf>
+    <rel:isCollection>true</rel:isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships to other objects" CREATED="2010-05-24T22:23:28.658Z" MIMETYPE="application/ref+xml" SIZE="449">
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <mod:hasModel rdf:resource="info:fedora/unf:cmodel_CollectionOfCollections"></mod:hasModel>
+    <rel:isMemberOf>unf:1</rel:isMemberOf>
+    <rel:isCollection>true</rel:isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.6" LABEL="Relationships to other objects" CREATED="2013-04-26T13:37:59.938Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="441">
+<foxml:contentDigest TYPE="MD5" DIGEST="ab68b29ba48650d2b08a71f40652bd87"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <rel:isMemberOf rdf:resource="info:fedora/unf:1"></rel:isMemberOf>
+    <rel:isMetaCollection>true</rel:isMetaCollection>
+    <isGroup xmlns="info:jaffedora/">true</isGroup>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.7" LABEL="Relationships to other objects" CREATED="2014-05-18T16:10:21.833Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="441">
+<foxml:contentDigest TYPE="MD5" DIGEST="ab68b29ba48650d2b08a71f40652bd87"/>
+<foxml:xmlContent>
+<rdf:RDF xmlns:mod="info:fedora/fedora-system:def/model#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rel="info:fedora/fedora-system:def/relations-external#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <rel:isMemberOf rdf:resource="info:fedora/unf:1"></rel:isMemberOf>
+    <rel:isMetaCollection>true</rel:isMetaCollection>
+    <isGroup xmlns="info:jaffedora/">true</isGroup>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.8" LABEL="Relationships" CREATED="2015-02-06T15:32:31.758Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="150">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.9" LABEL="Relationships" CREATED="2015-02-06T15:32:32.175Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="236">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.10" LABEL="Relationships" CREATED="2015-02-06T15:32:32.385Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="327">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">invert:006</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.11" LABEL="Relationships" CREATED="2015-02-11T18:24:45.312Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="150">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.12" LABEL="Relationships" CREATED="2015-02-11T18:24:45.562Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="236">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.13" LABEL="Relationships" CREATED="2015-02-11T18:24:45.787Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="326">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:425</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.14" LABEL="Relationships" CREATED="2015-02-11T18:29:09.157Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="241">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.15" LABEL="Relationships" CREATED="2015-02-22T16:45:28.658Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="215">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.16" LABEL="Relationships" CREATED="2015-03-01T12:54:48.236Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="215">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1">
+    <isCollection xmlns="info:jaffedora/">true</isCollection>
+  </rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

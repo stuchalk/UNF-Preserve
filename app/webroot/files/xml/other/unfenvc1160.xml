@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:1160"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Broad-Headed Skink Photo 2"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-04-02T19:34:25.432Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-04-02T19:34:27.907Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-04-02T19:34:25.432Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:25.432Z</audit:date>
+<audit:justification>unfenvc:1160 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:25.698Z</audit:date>
+<audit:justification>unfenvc:1160-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:26.567Z</audit:date>
+<audit:justification>unfenvc:1160-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Original</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:26.811Z</audit:date>
+<audit:justification>Added original file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:27.082Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:27.357Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:27.616Z</audit:date>
+<audit:justification>Added source file Rachel Bladow 1.jpg</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T19:34:27.907Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC1.0" LABEL="Dublin Core Record for this object" CREATED="2015-04-02T19:34:25.432Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="391">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Broad-Headed Skink Photo 2</dc:title>
+  <dc:identifier>unfenvc:1160</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2015-04-02T19:34:26.567Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="657">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Broad-Headed Skink Photo 2</dc:title>
+  <dc:creator>Rachel Bladow</dc:creator>
+  <dc:date>2015-04-02T15:34:22-04:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:1160</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2015 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2015-04-02T19:34:25.698Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="153">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1160"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2015-04-02T19:34:25.897Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="239">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1160">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:24"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2015-04-02T19:34:26.037Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="328">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1160">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:24"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">herp:021</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Original" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Original.0" LABEL="Original file" CREATED="2015-04-02T19:34:26.811Z" ALT_IDS="Rachel_Bladow_1.jpg" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4701458">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1160+Original+Original.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2015-04-02T19:34:27.082Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="1744">
+<foxml:xmlContent>
+<exif>
+  <Manufacturer>CASIO COMPUTER CO.,LTD.</Manufacturer>
+  <Model>EX-H30</Model>
+  <Orientation>Top-left</Orientation>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Software>iPhoto 9.4.3</Software>
+  <Date_and_Time>2013:09:04 13:43:42</Date_and_Time>
+  <Exposure_Time>1/160 sec.</Exposure_Time>
+  <F-Number>f/5.9</F-Number>
+  <Exposure_Program>Normal program</Exposure_Program>
+  <ISO_Speed_Ratings>125</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.3</Exif_Version>
+  <Date_and_Time__Original_>2013:09:04 13:43:42</Date_and_Time__Original_>
+  <Date_and_Time__Digitized_>2013:09:04 13:43:42</Date_and_Time__Digitized_>
+  <Components_Configuration>- - - Y</Components_Configuration>
+  <Compressed_Bits_per_Pixel>5.51</Compressed_Bits_per_Pixel>
+  <Exposure_Bias>0.00 EV</Exposure_Bias>
+  <Maximum_Aperture_Value>3.20 EV (f/3.0)</Maximum_Aperture_Value>
+  <Metering_Mode>Pattern</Metering_Mode>
+  <Light_Source>Unknown</Light_Source>
+  <Flash>Flash did not fire, auto mode</Flash>
+  <Focal_Length>53.0 mm</Focal_Length>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <Pixel_X_Dimension>3456</Pixel_X_Dimension>
+  <Pixel_Y_Dimension>4608</Pixel_Y_Dimension>
+  <Custom_Rendered>Normal process</Custom_Rendered>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Digital_Zoom_Ratio> 0</Digital_Zoom_Ratio>
+  <Focal_Length_in_35mm_Film>300</Focal_Length_in_35mm_Film>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+  <Gain_Control>High gain up</Gain_Control>
+  <Contrast>Normal</Contrast>
+  <Saturation>High saturation</Saturation>
+  <Sharpness>Soft</Sharpness>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2015-04-02T19:34:27.357Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" SIZE="270">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Broad-Headed Skink</name>
+    <description>&lt;i&gt;Plestiodon laticeps&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511829,30.26599,0.0</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2015-04-02T19:34:27.616Z" ALT_IDS="Rachel_Bladow_1.jpg" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4558822">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1160+Source+Source.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2015-04-02T19:34:27.907Z" ALT_IDS="Rachel_Bladow_1.jpg_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="103855">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1160+THUMB+THUMB.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:1183"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Devil&apos;S Walkingstick Photo 2"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2015-04-02T20:26:53.687Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2015-04-02T20:26:57.215Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2015-04-02T20:26:53.687Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:53.687Z</audit:date>
+<audit:justification>unfenvc:1183 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:54.001Z</audit:date>
+<audit:justification>unfenvc:1183-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:55.668Z</audit:date>
+<audit:justification>unfenvc:1183-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Original</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:55.929Z</audit:date>
+<audit:justification>Added original file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:56.233Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:56.655Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:56.917Z</audit:date>
+<audit:justification>Added source file IMGP5926.JPG</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2015-04-02T20:26:57.215Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC1.0" LABEL="Dublin Core Record for this object" CREATED="2015-04-02T20:26:53.687Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="398">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Devil&apos;S Walkingstick Photo 2</dc:title>
+  <dc:identifier>unfenvc:1183</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2015-04-02T20:26:55.668Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="665">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Devil&apos;S Walkingstick Photo 2</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2015-04-02T16:26:51-04:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:1183</dc:identifier>
+  <dc:language>en-US</dc:language>
+  <dc:rights>Copyright © 2015 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2015-04-02T20:26:54.001Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="153">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:1183"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2015-04-02T20:26:54.315Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="239">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1183">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2015-04-02T20:26:54.494Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="329">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:1183">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:177</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Original" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Original.0" LABEL="Original file" CREATED="2015-04-02T20:26:55.929Z" ALT_IDS="IMGP5926.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4342881">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1183+Original+Original.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2015-04-02T20:26:56.233Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="2728">
+<foxml:xmlContent>
+<exif>
+  <Manufacturer>PENTAX RICOH IMAGING</Manufacturer>
+  <Model>PENTAX WG-3 GPS</Model>
+  <Orientation>Top-left</Orientation>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Software>PENTAX WG-3 GPS Ver. 1.00</Software>
+  <Date_and_Time>2015:04:01 14:36:31</Date_and_Time>
+  <YCbCr_Positioning>Co-sited</YCbCr_Positioning>
+  <PRINT_Image_Matching>350 bytes undefined data</PRINT_Image_Matching>
+  <Compression>JPEG compression</Compression>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Exposure_Time>1/80 sec.</Exposure_Time>
+  <F-Number>f/2.8</F-Number>
+  <ISO_Speed_Ratings>125</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.3</Exif_Version>
+  <Date_and_Time__Original_>2015:04:01 14:36:31</Date_and_Time__Original_>
+  <Date_and_Time__Digitized_>2015:04:01 14:36:31</Date_and_Time__Digitized_>
+  <Components_Configuration>Y Cb Cr -</Components_Configuration>
+  <Exposure_Bias>0.00 EV</Exposure_Bias>
+  <Metering_Mode>Pattern</Metering_Mode>
+  <Flash>Flash did not fire, auto mode</Flash>
+  <Focal_Length>4.5 mm</Focal_Length>
+  <Maker_Note>50728 bytes undefined data</Maker_Note>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <Pixel_X_Dimension>4608</Pixel_X_Dimension>
+  <Pixel_Y_Dimension>2592</Pixel_Y_Dimension>
+  <Custom_Rendered>Normal process</Custom_Rendered>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Digital_Zoom_Ratio>1.00</Digital_Zoom_Ratio>
+  <Focal_Length_in_35mm_Film>25</Focal_Length_in_35mm_Film>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+  <Contrast>Normal</Contrast>
+  <Saturation>Normal</Saturation>
+  <Sharpness>Normal</Sharpness>
+  <Subject_Distance_Range>Distant view</Subject_Distance_Range>
+  <GPS_Tag_Version>2.3.0.0</GPS_Tag_Version>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 15, 55.29</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 40.23</Longitude>
+  <Altitude_Reference>Sea level</Altitude_Reference>
+  <Altitude>1.70</Altitude>
+  <GPS_Time__Atomic_Clock_>18:36:57.00</GPS_Time__Atomic_Clock_>
+  <GPS_Satellites>06</GPS_Satellites>
+  <GPS_Receiver_Status>A</GPS_Receiver_Status>
+  <GPS_Measurement_Mode>3</GPS_Measurement_Mode>
+  <GPS_Image_Direction_Reference>T</GPS_Image_Direction_Reference>
+  <GPS_Image_Direction>225.82</GPS_Image_Direction>
+  <Geodetic_Survey_Data_Used>WGS-84</Geodetic_Survey_Data_Used>
+  <GPS_Date>2015:04:01</GPS_Date>
+  <Interoperability_Index>R98</Interoperability_Index>
+  <Interoperability_Version>0100</Interoperability_Version>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2015-04-02T20:26:56.655Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" SIZE="274">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Devil&apos;S Walkingstick</name>
+    <description>&lt;i&gt;Aralia spinosa&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.511175,30.265358,1.70</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2015-04-02T20:26:56.917Z" ALT_IDS="IMGP5926.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="3603138">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1183+Source+Source.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2015-04-02T20:26:57.215Z" ALT_IDS="IMGP5926.JPG_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="100354">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="unfenvc:1183+THUMB+THUMB.0"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

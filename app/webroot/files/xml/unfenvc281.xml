@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foxml:digitalObject VERSION="1.1" PID="unfenvc:281"
+xmlns:foxml="info:fedora/fedora-system:def/foxml#"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="info:fedora/fedora-system:def/foxml# http://www.fedora.info/definitions/1/0/foxml1-1.xsd">
+<foxml:objectProperties>
+<foxml:property NAME="info:fedora/fedora-system:def/model#state" VALUE="Active"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#label" VALUE="Southern Beeblossom Photo 3"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#ownerId" VALUE="UNF Environmental Center"/>
+<foxml:property NAME="info:fedora/fedora-system:def/model#createdDate" VALUE="2013-11-25T14:55:01.608Z"/>
+<foxml:property NAME="info:fedora/fedora-system:def/view#lastModifiedDate" VALUE="2014-12-17T13:29:02.414Z"/>
+</foxml:objectProperties>
+<foxml:datastream ID="AUDIT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="false">
+<foxml:datastreamVersion ID="AUDIT.0" LABEL="Audit Trail for this object" CREATED="2013-11-25T14:55:01.608Z" MIMETYPE="text/xml" FORMAT_URI="info:fedora/fedora-system:format/xml.fedora.audit">
+<foxml:xmlContent>
+<audit:auditTrail xmlns:audit="info:fedora/fedora-system:def/audit#">
+<audit:record ID="AUDREC1">
+<audit:process type="Fedora API-M"/>
+<audit:action>ingest</audit:action>
+<audit:componentID></audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:01.608Z</audit:date>
+<audit:justification>unfenvc:281 : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC2">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>RELS-EXT</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:01.717Z</audit:date>
+<audit:justification>unfenvc:281-&gt;RELS-EXT : Added using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC3">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:01.938Z</audit:date>
+<audit:justification>unfenvc:281-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC4">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>EXIF</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:02.018Z</audit:date>
+<audit:justification>Added EXIF file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC5">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>KML</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:02.100Z</audit:date>
+<audit:justification>Added KML file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC6">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:02.178Z</audit:date>
+<audit:justification>Added source file</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC7">
+<audit:process type="Fedora API-M"/>
+<audit:action>addDatastream</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2013-11-25T14:55:02.252Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC8">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T19:02:53.600Z</audit:date>
+<audit:justification>unfenvc:281-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC9">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-15T19:02:54.514Z</audit:date>
+<audit:justification>unfenvc:281-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC10">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-16T09:21:38.745Z</audit:date>
+<audit:justification>unfenvc:281-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC11">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-05-18T13:06:56.100Z</audit:date>
+<audit:justification>unfenvc:281-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC12">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>Source</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:26:00.024Z</audit:date>
+<audit:justification>unfenvc:281-&gt;Source : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC13">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T15:44:27.931Z</audit:date>
+<audit:justification>unfenvc:281-&gt;THUMB : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC14">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByValue</audit:action>
+<audit:componentID>DC</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-16T17:11:23.525Z</audit:date>
+<audit:justification>unfenvc:281-&gt;DC : Updated using jafFedora</audit:justification>
+</audit:record>
+<audit:record ID="AUDREC15">
+<audit:process type="Fedora API-M"/>
+<audit:action>modifyDatastreamByReference</audit:action>
+<audit:componentID>THUMB</audit:componentID>
+<audit:responsibility>fedoraAdmin</audit:responsibility>
+<audit:date>2014-12-17T13:29:02.414Z</audit:date>
+<audit:justification>Added thumbnail stream</audit:justification>
+</audit:record>
+</audit:auditTrail>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="DC" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="DC.0" LABEL="Dublin Core Record for this object" CREATED="2013-11-25T14:55:01.608Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="391">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Southern Beeblossom Photo 3</dc:title>
+  <dc:identifier>unfenvc:281</dc:identifier>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.1" LABEL="Dublin Core Record for this object" CREATED="2013-11-25T14:55:01.938Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="623">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Southern Beeblossom Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-25T09:55:01-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:281</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.2" LABEL="Dublin Core Record for this object" CREATED="2014-05-16T09:21:38.745Z" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="622">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Southern Beeblossom Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-25T09:55:01-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:281</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.3" LABEL="Dublin Core Record for this object" CREATED="2014-05-18T13:06:56.100Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="622">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Southern Beeblossom Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2013-11-25T09:55:01-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpg</dc:format>
+  <dc:identifier>unfenvc:281</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="DC.4" LABEL="Dublin Core Record for this object" CREATED="2014-12-16T17:11:23.525Z" MIMETYPE="text/xml" FORMAT_URI="http://www.openarchives.org/OAI/2.0/oai_dc/" SIZE="623">
+<foxml:xmlContent>
+<oai_dc:dc xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oai_dc="http://www.openarchives.org/OAI/2.0/oai_dc/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/oai_dc/ http://www.openarchives.org/OAI/2.0/oai_dc.xsd">
+  <dc:title>Southern Beeblossom Photo 3</dc:title>
+  <dc:creator>Justin Lemmons</dc:creator>
+  <dc:date>2014-12-16T12:11:23-05:00</dc:date>
+  <dc:type>Image</dc:type>
+  <dc:format>image/jpeg</dc:format>
+  <dc:identifier>unfenvc:281</dc:identifier>
+  <dc:rights>Copyright © 2013 UNF and the UNF Environmental Center</dc:rights>
+</oai_dc:dc>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="RELS-EXT" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="RELS-EXT.0" LABEL="Relationships" CREATED="2013-11-25T14:55:01.717Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="152">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about="info:fedora/unfenvc:281"></rdf:Description>
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.1" LABEL="Relationships" CREATED="2013-11-25T14:55:01.795Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="238">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:281">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="RELS-EXT.2" LABEL="Relationships" CREATED="2013-11-25T14:55:01.840Z" MIMETYPE="application/rdf+xml" FORMAT_URI="info:fedora/fedora-system:FedoraRELSExt-1.0" SIZE="328">
+<foxml:xmlContent>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="info:fedora/unfenvc:281">
+	<isItemOf xmlns="info:jaffedora/" rdf:resource="info:fedora/unfenvc:20"></isItemOf>
+	<isPartOf xmlns="info:fedora/fedora-system:def/relations-external#">plant:436</isPartOf>
+</rdf:Description>
+
+</rdf:RDF>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="EXIF" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="EXIF.0" LABEL="EXIF Data" CREATED="2013-11-25T14:55:02.018Z" ALT_IDS="exif.xml" MIMETYPE="text/xml" FORMAT_URI="http://www.w3.org/TR/xml/" SIZE="2870">
+<foxml:xmlContent>
+<exif>
+  <Manufacturer>PENTAX RICOH IMAGING   </Manufacturer>
+  <Model>PENTAX WG-3 GPS</Model>
+  <Orientation>Top-left</Orientation>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Software>Microsoft Windows Photo Viewer 6.1.7600.16385</Software>
+  <Date_and_Time>2013:08:20 10:43:24</Date_and_Time>
+  <YCbCr_Positioning>Co-sited</YCbCr_Positioning>
+  <PRINT_Image_Matching>350 bytes undefined data</PRINT_Image_Matching>
+  <Padding>2060 bytes undefined data</Padding>
+  <Compression>JPEG compression</Compression>
+  <X-Resolution>72</X-Resolution>
+  <Y-Resolution>72</Y-Resolution>
+  <Resolution_Unit>Inch</Resolution_Unit>
+  <Exposure_Time>1/100 sec.</Exposure_Time>
+  <F-Number>f/3.1</F-Number>
+  <ISO_Speed_Ratings>125</ISO_Speed_Ratings>
+  <Exif_Version>Exif Version 2.3</Exif_Version>
+  <Date_and_Time__Original_>2013:08:20 10:02:34</Date_and_Time__Original_>
+  <Date_and_Time__Digitized_>2013:08:20 10:02:34</Date_and_Time__Digitized_>
+  <Components_Configuration>Y Cb Cr -</Components_Configuration>
+  <Exposure_Bias>0.00 EV</Exposure_Bias>
+  <Metering_Mode>Pattern</Metering_Mode>
+  <Flash>Flash did not fire, auto mode</Flash>
+  <Focal_Length>5.5 mm</Focal_Length>
+  <Maker_Note>50728 bytes undefined data</Maker_Note>
+  <FlashPixVersion>FlashPix Version 1.0</FlashPixVersion>
+  <Color_Space>sRGB</Color_Space>
+  <Pixel_X_Dimension>2592</Pixel_X_Dimension>
+  <Pixel_Y_Dimension>4608</Pixel_Y_Dimension>
+  <Custom_Rendered>Normal process</Custom_Rendered>
+  <Exposure_Mode>Auto exposure</Exposure_Mode>
+  <White_Balance>Auto white balance</White_Balance>
+  <Digital_Zoom_Ratio>1.00</Digital_Zoom_Ratio>
+  <Focal_Length_in_35mm_Film>31</Focal_Length_in_35mm_Film>
+  <Scene_Capture_Type>Standard</Scene_Capture_Type>
+  <Contrast>Normal</Contrast>
+  <Saturation>Normal</Saturation>
+  <Sharpness>Normal</Sharpness>
+  <Subject_Distance_Range>Close view</Subject_Distance_Range>
+  <Padding>2060 bytes undefined data</Padding>
+  <GPS_Tag_Version>2.3.0.0</GPS_Tag_Version>
+  <North_or_South_Latitude>N</North_or_South_Latitude>
+  <Latitude>30, 16, 11.448</Latitude>
+  <East_or_West_Longitude>W</East_or_West_Longitude>
+  <Longitude>81, 30, 57.108</Longitude>
+  <Altitude_Reference>Sea level</Altitude_Reference>
+  <Altitude>6.70</Altitude>
+  <GPS_Time__Atomic_Clock_>14:01:36.00</GPS_Time__Atomic_Clock_>
+  <GPS_Satellites>07</GPS_Satellites>
+  <GPS_Receiver_Status>A</GPS_Receiver_Status>
+  <GPS_Measurement_Mode>3</GPS_Measurement_Mode>
+  <GPS_Image_Direction_Reference>T</GPS_Image_Direction_Reference>
+  <GPS_Image_Direction>73.09</GPS_Image_Direction>
+  <Geodetic_Survey_Data_Used>WGS-84                         </Geodetic_Survey_Data_Used>
+  <GPS_Date>2013:08:20</GPS_Date>
+  <Interoperability_Index>R98</Interoperability_Index>
+  <Interoperability_Version>0100</Interoperability_Version>
+</exif>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="KML" STATE="A" CONTROL_GROUP="X" VERSIONABLE="true">
+<foxml:datastreamVersion ID="KML.0" LABEL="OGC/Google KML(GPS) Data" CREATED="2013-11-25T14:55:02.100Z" ALT_IDS="marker.kml" MIMETYPE="application/vnd.google-earth.kml+xml" FORMAT_URI="http://www.opengeospatial.org/standards/kml/" SIZE="284">
+<foxml:xmlContent>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Placemark>
+    <name>Southern Beeblossom</name>
+    <description>&lt;i&gt;Gaura angustifolia&lt;/i&gt;</description>
+    <Point>
+      <coordinates>-81.515863333333,30.269846666667,6.70</coordinates>
+    </Point>
+  </Placemark>
+</kml>
+</foxml:xmlContent>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="Source" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="Source.0" LABEL="Source file" CREATED="2013-11-25T14:55:02.178Z" ALT_IDS="IMGP0862.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4502494">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/Source/2013-11-25T14:55:02.178Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.1" LABEL="Source file" CREATED="2014-05-15T19:02:53.600Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4502494">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/Source/2014-05-15T19:02:53.600Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="Source.2" LABEL="Source file" CREATED="2014-12-16T15:26:00.024Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="4502494">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/Source/2014-12-16T15:26:00.024Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+<foxml:datastream ID="THUMB" STATE="A" CONTROL_GROUP="M" VERSIONABLE="true">
+<foxml:datastreamVersion ID="THUMB.0" LABEL="Thumbnail of image" CREATED="2013-11-25T14:55:02.252Z" ALT_IDS="/Volumes/data/phptemp/IMGP0862.JPG" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="207726">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/THUMB/2013-11-25T14:55:02.252Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.1" LABEL="Thumbnail of image" CREATED="2014-05-15T19:02:54.514Z" MIMETYPE="image/jpg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="207726">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/THUMB/2014-05-15T19:02:54.514Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.2" LABEL="Thumbnail of image" CREATED="2014-12-16T15:44:27.931Z" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="207726">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/THUMB/2014-12-16T15:44:27.931Z"/>
+</foxml:datastreamVersion>
+<foxml:datastreamVersion ID="THUMB.3" LABEL="Thumbnail of image" CREATED="2014-12-17T13:29:02.414Z" ALT_IDS="Source_thumbnail" MIMETYPE="image/jpeg" FORMAT_URI="http://www.jpeg.org/jpeg" SIZE="195093">
+<foxml:contentLocation TYPE="INTERNAL_ID" REF="http://ecenter.unf.edu:8080/fedora/get/unfenvc:281/THUMB/2014-12-17T13:29:02.414Z"/>
+</foxml:datastreamVersion>
+</foxml:datastream>
+</foxml:digitalObject>

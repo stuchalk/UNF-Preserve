@@ -1,0 +1,1 @@
+<?php echo $query['field']." updated to ".$query['value']." on PID ".$args['pid']; ?>

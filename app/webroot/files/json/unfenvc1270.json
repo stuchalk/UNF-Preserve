@@ -1,0 +1,348 @@
+
+	{
+	"pid": "unfenvc:1270",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Basilica spider Photo 1"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-04-28T17:16:55.924Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-04-28T17:16:58.364Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-04-28T17:16:57.029Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "654"
+						
+					},
+				"content": {
+				
+					"title": "Basilica spider Photo 1"
+					,
+					"creator": "Chuck Hubbuch"
+					,
+					"date": "2015-04-28T13:16:53-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1270"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-04-28T17:16:57.565Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2653"
+				
+			},
+			"content": {
+			
+				"manufacturer": "NIKON CORPORATION"
+				,
+				"model": "NIKON D90"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "300"
+				,
+				"y-resolution": "300"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "Ver.1.00 "
+				,
+				"date_and_time": "2013:06:08 01:52:37"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "300"
+				,
+				"y-resolution": "300"
+				,
+				"resolution_unit": "Inch"
+				,
+				"ycbcr_positioning": "Co-sited"
+				,
+				"exposure_time": "1/80 sec."
+				,
+				"f-number": "f/5.6"
+				,
+				"exposure_program": "Not defined"
+				,
+				"iso_speed_ratings": "400"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2013:06:08 01:52:37"
+				,
+				"date_and_time__digitized_": "2013:06:08 01:52:37"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"compressed_bits_per_pixel": " 2"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"maximum_aperture_value": "5.00 EV (f/5.7)"
+				,
+				"metering_mode": "Pattern"
+				,
+				"light_source": "Unknown"
+				,
+				"flash": "Flash did not fire, auto mode"
+				,
+				"focal_length": "55.0 mm"
+				,
+				"maker_note": "34398 bytes undefined data"
+				,
+				"user_comment": ""
+				,
+				"sub-second_time": "00"
+				,
+				"sub-second_time__original_": "00"
+				,
+				"sub-second_time__digitized_": "00"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "4288"
+				,
+				"pixel_y_dimension": "2848"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"file_source": "DSC"
+				,
+				"scene_type": "Directly photographed"
+				,
+				"cfa_pattern": "8 bytes undefined data"
+				,
+				"custom_rendered": "Normal process"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"digital_zoom_ratio": " 1"
+				,
+				"focal_length_in_35mm_film": "82"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"gain_control": "Low gain up"
+				,
+				"contrast": "Normal"
+				,
+				"saturation": "Normal"
+				,
+				"sharpness": "Normal"
+				,
+				"subject_distance_range": "Unknown"
+				,
+				"gps_tag_version": "2.2.0.0"
+				,
+				"interoperability_index": "R98"
+				,
+				"interoperability_version": "0100"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-04-28T17:16:57.835Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "268"
+				
+			},
+			"content": {
+			
+			"name": "Basilica spider",
+			"desc": "&lt;i&gt;Mecynogea lemniscata&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-28T17:16:56.198Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-28T17:16:56.390Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-04-28T17:16:56.529Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "330"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:31"
+					,
+						"ispartof": "invert:175"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-04-28T17:16:58.077Z"
+				,
+				"alt_ids": "basilica_spider.CHubbuch.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3475902"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1270+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-04-28T17:16:58.364Z"
+				,
+				"alt_ids": "basilica_spider.CHubbuch.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "54352"
+				
+			},
+			"content": {
+			"url": "unfenvc:1270+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

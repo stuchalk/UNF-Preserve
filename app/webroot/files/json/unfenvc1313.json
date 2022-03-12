@@ -1,0 +1,324 @@
+
+	{
+	"pid": "unfenvc:1313",
+		"props": {
+			
+				"info:fedora/fedora-system:def/model#state": "Active"
+				,
+				"info:fedora/fedora-system:def/model#label": "Purple Thistle Photo 7"
+				,
+				"info:fedora/fedora-system:def/model#ownerId": "UNF Environmental Center"
+				,
+				"info:fedora/fedora-system:def/model#createdDate": "2015-05-06T18:36:29.603Z"
+				,
+				"info:fedora/fedora-system:def/view#lastModifiedDate": "2015-05-06T18:36:32.505Z"
+				
+		},
+		"dcs": [
+			
+				{
+				"attrs": {
+					
+						"id": "DC.1"
+						,
+						"label": "Dublin Core Record for this object"
+						,
+						"created": "2015-05-06T18:36:31.167Z"
+						,
+						"mimetype": "text/xml"
+						,
+						"format_uri": "http://www.openarchives.org/OAI/2.0/oai_dc/"
+						,
+						"size": "651"
+						
+					},
+				"content": {
+				
+					"title": "Purple Thistle Photo 7"
+					,
+					"creator": "Kacie Smith"
+					,
+					"date": "2015-05-06T14:36:27-04:00"
+					,
+					"type": "Image"
+					,
+					"format": "image/jpeg"
+					,
+					"identifier": "unfenvc:1313"
+					,
+					"language": "en-US"
+					,
+					"rights": "Copyright © 2015 UNF and the UNF Environmental Center"
+					
+					}
+				}
+				
+		],
+		"exifs": [
+		
+			{
+			"attrs": {
+			
+				"id": "EXIF.0"
+				,
+				"label": "EXIF Data"
+				,
+				"created": "2015-05-06T18:36:31.713Z"
+				,
+				"alt_ids": "exif.xml"
+				,
+				"mimetype": "text/xml"
+				,
+				"format_uri": "http://www.w3.org/TR/xml/"
+				,
+				"size": "2192"
+				
+			},
+			"content": {
+			
+				"manufacturer": "Apple"
+				,
+				"model": "iPhone 5s"
+				,
+				"orientation": "Top-left"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"software": "Microsoft Windows Photo Viewer 6.1.7600.16385"
+				,
+				"date_and_time": "2015:05:06 14:21:46"
+				,
+				"ycbcr_positioning": "Centered"
+				,
+				"padding": "2060 bytes undefined data"
+				,
+				"compression": "JPEG compression"
+				,
+				"x-resolution": "72"
+				,
+				"y-resolution": "72"
+				,
+				"resolution_unit": "Inch"
+				,
+				"exposure_time": "1/120 sec."
+				,
+				"f-number": "f/2.2"
+				,
+				"exposure_program": "Normal program"
+				,
+				"iso_speed_ratings": "64"
+				,
+				"exif_version": "Exif Version 2.21"
+				,
+				"date_and_time__original_": "2015:03:11 15:42:54"
+				,
+				"date_and_time__digitized_": "2015:03:11 15:42:54"
+				,
+				"components_configuration": "Y Cb Cr -"
+				,
+				"shutter_speed": "6.91 EV (1/120 sec.)"
+				,
+				"aperture": "2.28 EV (f/2.2)"
+				,
+				"brightness": "5.44 EV (149.05 cd/m^2)"
+				,
+				"exposure_bias": "0.00 EV"
+				,
+				"metering_mode": "Spot"
+				,
+				"flash": "Flash did not fire, compulsory flash mode"
+				,
+				"focal_length": "4.2 mm"
+				,
+				"subject_area": "Within rectangle (width 610, height 612) around (x,y) = (1829,1047)"
+				,
+				"maker_note": "814 bytes undefined data"
+				,
+				"sub-second_time__original_": "231"
+				,
+				"sub-second_time__digitized_": "231"
+				,
+				"flashpixversion": "FlashPix Version 1.0"
+				,
+				"color_space": "sRGB"
+				,
+				"pixel_x_dimension": "2448"
+				,
+				"pixel_y_dimension": "3264"
+				,
+				"sensing_method": "One-chip color area sensor"
+				,
+				"scene_type": "Directly photographed"
+				,
+				"exposure_mode": "Auto exposure"
+				,
+				"white_balance": "Auto white balance"
+				,
+				"focal_length_in_35mm_film": "29"
+				,
+				"scene_capture_type": "Standard"
+				,
+				"padding": "2060 bytes undefined data"
+				
+				}
+			}
+			
+		],
+		"kmls": [
+		
+			{
+			"attrs": {
+			
+				"id": "KML.0"
+				,
+				"label": "OGC/Google KML(GPS) Data"
+				,
+				"created": "2015-05-06T18:36:31.977Z"
+				,
+				"alt_ids": "marker.kml"
+				,
+				"mimetype": "application/vnd.google-earth.kml+xml"
+				,
+				"size": "265"
+				
+			},
+			"content": {
+			
+			"name": "Purple Thistle",
+			"desc": "&lt;i&gt;Cirsium horridulum&lt;/i&gt;",
+			"coordinates": "-81.511829,30.26599,0.0"
+				}
+			}
+			
+		],
+		"rels": [
+		
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.0"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:36:30.276Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "153"
+				
+				},
+			"content": {
+			
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.1"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:36:30.491Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "239"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					
+				}
+			}
+			,
+			{
+			"attrs": {
+			
+				"id": "RELS-EXT.2"
+				,
+				"label": "Relationships"
+				,
+				"created": "2015-05-06T18:36:30.641Z"
+				,
+				"mimetype": "application/rdf+xml"
+				,
+				"format_uri": "info:fedora/fedora-system:FedoraRELSExt-1.0"
+				,
+				"size": "329"
+				
+				},
+			"content": {
+			
+						"isitemof": "info:fedora/unfenvc:20"
+					,
+						"ispartof": "plant:201"
+					
+				}
+			}
+			
+		],
+		"sources": [
+		
+			{
+			"attrs": {
+			
+				"id": "Source.0"
+				,
+				"label": "Source file"
+				,
+				"created": "2015-05-06T18:36:32.230Z"
+				,
+				"alt_ids": "Kacie_Smith_1.JPG"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "3254495"
+				
+				},
+			"content": {
+			"md5": "",
+			"url": "unfenvc:1313+Source+Source.0"
+				}
+			}
+			
+		],
+		"thumbs": [
+		
+			{
+			"attrs": {
+			
+				"id": "THUMB.0"
+				,
+				"label": "Thumbnail of image"
+				,
+				"created": "2015-05-06T18:36:32.505Z"
+				,
+				"alt_ids": "Kacie_Smith_1.JPG_thumbnail"
+				,
+				"mimetype": "image/jpeg"
+				,
+				"format_uri": "http://www.jpeg.org/jpeg"
+				,
+				"size": "134254"
+				
+			},
+			"content": {
+			"url": "unfenvc:1313+THUMB+THUMB.0"
+			}
+			}
+			
+		]
+	}
+	

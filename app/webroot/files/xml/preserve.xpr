@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="20.1">
+    <meta>
+        <filters directoryPatterns="" filePatterns="preserve.xpr" positiveFilePatterns="" showHiddenFiles="false"/>
+        <options/>
+    </meta>
+    <projectTree name="preserve.xpr">
+        <folder path="../json/"/>
+        <folder path="."/>
+        <folder path="../xsl/"/>
+    </projectTree>
+</project>
